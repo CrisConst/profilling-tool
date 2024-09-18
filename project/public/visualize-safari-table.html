@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Filtered Safari Performance Entries</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      overflow-x: hidden;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 0;
+      overflow: hidden;
+      table-layout: fixed;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th, td {
+      padding: 8px;
+      text-align: left;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      width: 20%;
+      position: relative;
+    }
+    th {
+      position: sticky;
+      top: 0;
+      background-color: #f8f8f8;
+      z-index: 1;
+    }
+    .task-row {
+      background-color: #f0f8ff;
+    }
+    td:hover::after {
+      content: attr(data-fullname);
+      position: absolute;
+      background-color: #333;
+      color: #fff;
+      padding: 5px;
+      border-radius: 3px;
+      white-space: nowrap;
+      z-index: 10;
+      top: 100%;
+      left: 0;
+      transform: translateY(5px);
+      max-width: 300px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  </style>
+</head>
+<body>
+  <h1>Filtered Safari Performance Entries</h1>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Entry Type</th>
+        <th>Start Time (ms)</th>
+        <th>Duration (ms)</th>
+        <th>Source</th>
+      </tr>
+    </thead>
+    <tbody id="tasksTableBody">
+    </tbody>
+  </table>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const response = await fetch('/filtered-safari-tasks');
+        const filteredEntries = await response.json();
+
+        const renderEntryRow = (entry) => {
+          const entryRow = document.createElement('tr');
+          entryRow.className = 'task-row';
+
+          entryRow.innerHTML = `
+            <td data-fullname="${entry.name || 'N/A'}">${entry.name || 'N/A'}</td>
+            <td data-fullname="${entry.entryType || 'N/A'}">${entry.entryType || 'N/A'}</td>
+            <td data-fullname="${entry.startTime || 'N/A'}">${entry.startTime || 'N/A'}</td>
+            <td data-fullname="${entry.duration || 'N/A'}">${entry.duration || 'N/A'}</td>
+            <td data-fullname="${entry.source || 'N/A'}">${entry.source || 'N/A'}</td>
+          `;
+
+          document.getElementById('tasksTableBody').appendChild(entryRow);
+        };
+
+        filteredEntries.forEach(entry => renderEntryRow(entry));
+
+      } catch (error) {
+        console.error('Failed to load filtered entries:', error);
+      }
+    });
+  </script>
+</body>
+</html>

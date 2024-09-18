@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Safari Profiling Timeline</title>
+</head>
+<body>
+  <canvas id="timelineChartSafari" width="800" height="400"></canvas>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const response = await fetch('/safari-tasks'); 
+        const tasks = await response.json();
+
+        const labels = tasks.map(task => task.name || task.entryType);
+        const startTimes = tasks.map(task => task.startTime || 0);
+        const durations = tasks.map(task => task.duration || 0);
+
+        var ctx = document.getElementById('timelineChartSafari').getContext('2d');
+        var chart = new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: labels,
+            datasets: [{
+              label: 'Task Duration (ms)',
+              data: durations,
+              backgroundColor: 'rgba(75, 192, 192, 0.2)',
+              borderColor: 'rgba(75, 192, 192, 1)',
+              borderWidth: 1,
+              base: startTimes, 
+              indexAxis: 'y' 
+            }]
+          },
+          options: {
+            scales: {
+              x: {
+                beginAtZero: true,
+                title: {
+                  display: true,
+                  text: 'Time (ms)'
+                }
+              }
+            },
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: function(tooltipItem) {
+                    const startTime = startTimes[tooltipItem.dataIndex];
+                    const duration = durations[tooltipItem.dataIndex];
+                    return `Start Time: ${startTime} ms, Duration: ${duration} ms`;
+                  }
+                }
+              }
+            }
+          }
+        });
+      } catch (error) {
+        console.error('Failed to load tasks:', error);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profiling Data</title>
+  <style>
+    .tab {
+      display: none;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab:checked + label + .tab-content {
+      display: block;
+    }
+    label {
+      padding: 10px;
+      display: inline-block;
+      background: #ccc;
+      cursor: pointer;
+    }
+    label:hover {
+      background: #ddd;
+    }
+  </style>
+</head>
+<body>
+  <h1>Profiling Data</h1>
+  <input id="tab1" type="radio" name="tabs" class="tab" checked>
+  <label for="tab1">Chrome CPU Throttling</label>
+  <div class="tab-content">
+    <iframe src="/cpu-throttling" width="100%" height="400"></iframe>
+  </div>
+
+  <input id="tab2" type="radio" name="tabs" class="tab">
+  <label for="tab2">Chrome Long Tasks</label>
+  <div class="tab-content">
+    <iframe src="/long-tasks" width="100%" height="400"></iframe>
+  </div>
+
+  <input id="tab3" type="radio" name="tabs" class="tab">
+  <label for="tab3">Safari CPU Throttling</label>
+  <div class="tab-content">
+    <iframe src="/safari-cpu-throttling" width="100%" height="400"></iframe>
+  </div>
+
+  <input id="tab4" type="radio" name="tabs" class="tab">
+  <label for="tab4">Safari Long Tasks</label>
+  <div class="tab-content">
+    <iframe src="/safari-long-tasks" width="100%" height="400"></iframe>
+  </div>
+</body>
+</html>

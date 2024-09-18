@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chrome Profiling Timeline</title>
+</head>
+<body>
+  <canvas id="timelineChart" width="800" height="400"></canvas>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', async () => {
+      try {
+        const response = await fetch('/all-tasks'); // Replace with your actual endpoint
+        const tasks = await response.json();
+
+        const labels = tasks.map(task => task.functionName || '(anonymous)');
+        const startTimes = tasks.map(task => task.startTime || 0);
+        const durations = tasks.map(task => task.duration || 0);
+
+        var ctx = document.getElementById('timelineChart').getContext('2d');
+        var chart = new Chart(ctx, {
+          type: 'bar',
+          data: {
+            labels: labels,
+            datasets: [{
+              label: 'Task Duration (ms)',
+              data: durations,
+              backgroundColor: 'rgba(75, 192, 192, 0.9)', // A darker and more solid color
+              borderColor: 'rgba(75, 192, 192, 1)',
+              borderWidth: 3, // Even thicker border
+              base: startTimes,
+              indexAxis: 'y',
+              barThickness: 15, // Increase the thickness of the bars
+            }]
+          },
+          options: {
+            scales: {
+              x: {
+                beginAtZero: true,
+                title: {
+                  display: true,
+                  text: 'Time (ms)',
+                  color: '#333', // Darker color for better contrast
+                  font: {
+                    size: 16, // Larger font size for better readability
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.05)', // Very light grid lines for contrast
+                }
+              },
+              y: {
+                ticks: {
+                  font: {
+                    size: 14, // Larger font size for labels
+                  },
+                  color: '#333', // Darker color for better visibility
+                }
+              }
+            },
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: function(tooltipItem) {
+                    const startTime = startTimes[tooltipItem.dataIndex];
+                    const duration = durations[tooltipItem.dataIndex];
+                    return `Start Time: ${startTime} ms, Duration: ${duration} ms`;
+                  }
+                }
+              }
+            }
+          }
+        });
+      } catch (error) {
+        console.error('Failed to load tasks:', error);
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,752 @@
+[
+  {
+    "name": "startup:document-create-from-scratch-custom-size-direct:begin",
+    "entryType": "mark",
+    "startTime": 0,
+    "duration": 0
+  },
+  {
+    "name": "startup:editor-load-direct:begin",
+    "entryType": "mark",
+    "startTime": 0,
+    "duration": 0
+  },
+  {
+    "name": "startup:app-load:begin",
+    "entryType": "mark",
+    "startTime": 0,
+    "duration": 0
+  },
+  {
+    "name": "startup:welcome-modal-render:begin",
+    "entryType": "mark",
+    "startTime": 0,
+    "duration": 0
+  },
+  {
+    "name": "startup:header-bar-load-direct:begin",
+    "entryType": "mark",
+    "startTime": 0,
+    "duration": 0
+  },
+  {
+    "name": "brick-manager-construction:fcaa3b7d-e780-4830-aff0-3e467a136235:begin",
+    "entryType": "mark",
+    "startTime": 391.655029296875,
+    "duration": 0
+  },
+  {
+    "name": "brick-manager-construction:fcaa3b7d-e780-4830-aff0-3e467a136235:end",
+    "entryType": "mark",
+    "startTime": 392.25,
+    "duration": 0
+  },
+  {
+    "name": "startup:ims-load:begin",
+    "entryType": "mark",
+    "startTime": 394.18505859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:ims-load:end",
+    "entryType": "mark",
+    "startTime": 1640.510009765625,
+    "duration": 0
+  },
+  {
+    "name": "Zone",
+    "entryType": "mark",
+    "startTime": 2518.5800001621246,
+    "duration": 0
+  },
+  {
+    "name": "Zone:ZoneAwarePromise",
+    "entryType": "mark",
+    "startTime": 2518.7750000953674,
+    "duration": 0
+  },
+  {
+    "name": "Zone:toString",
+    "entryType": "mark",
+    "startTime": 2519.1050000190735,
+    "duration": 0
+  },
+  {
+    "name": "Zone:util",
+    "entryType": "mark",
+    "startTime": 2519.210000038147,
+    "duration": 0
+  },
+  {
+    "name": "Zone:legacy",
+    "entryType": "mark",
+    "startTime": 2519.4700000286102,
+    "duration": 0
+  },
+  {
+    "name": "Zone:timers",
+    "entryType": "mark",
+    "startTime": 2519.4900000095367,
+    "duration": 0
+  },
+  {
+    "name": "Zone:blocking",
+    "entryType": "mark",
+    "startTime": 2519.590000152588,
+    "duration": 0
+  },
+  {
+    "name": "Zone:EventTarget",
+    "entryType": "mark",
+    "startTime": 2519.630000114441,
+    "duration": 0
+  },
+  {
+    "name": "Zone:MutationObserver",
+    "entryType": "mark",
+    "startTime": 2519.9400000572205,
+    "duration": 0
+  },
+  {
+    "name": "Zone:IntersectionObserver",
+    "entryType": "mark",
+    "startTime": 2520.0199999809265,
+    "duration": 0
+  },
+  {
+    "name": "Zone:FileReader",
+    "entryType": "mark",
+    "startTime": 2520.1100001335144,
+    "duration": 0
+  },
+  {
+    "name": "Zone:on_property",
+    "entryType": "mark",
+    "startTime": 2520.4100000858307,
+    "duration": 0
+  },
+  {
+    "name": "Zone:customElements",
+    "entryType": "mark",
+    "startTime": 2531.0499999523163,
+    "duration": 0
+  },
+  {
+    "name": "Zone:XHR",
+    "entryType": "mark",
+    "startTime": 2531.1200001239777,
+    "duration": 0
+  },
+  {
+    "name": "Zone:geolocation",
+    "entryType": "mark",
+    "startTime": 2531.2799999713898,
+    "duration": 0
+  },
+  {
+    "name": "Zone:queueMicrotask",
+    "entryType": "mark",
+    "startTime": 2531.3300001621246,
+    "duration": 0
+  },
+  {
+    "name": "startup:intl-store-initialize:begin",
+    "entryType": "mark",
+    "startTime": 3679.530029296875,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-authoring-worker:begin",
+    "entryType": "mark",
+    "startTime": 3689.43994140625,
+    "duration": 0
+  },
+  {
+    "name": "startup:access-profile-load:begin",
+    "entryType": "mark",
+    "startTime": 3689.89501953125,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-authoring-worker:end",
+    "entryType": "mark",
+    "startTime": 3691.60009765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:access-profile-load:end",
+    "entryType": "mark",
+    "startTime": 3691.85009765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:router-startup:begin",
+    "entryType": "mark",
+    "startTime": 3822.47509765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:router-startup:end",
+    "entryType": "mark",
+    "startTime": 3824.304931640625,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-text-module:begin",
+    "entryType": "mark",
+    "startTime": 3966.385009765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-pathkit-module:begin",
+    "entryType": "mark",
+    "startTime": 3967.31005859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-initialize-coediting:begin",
+    "entryType": "mark",
+    "startTime": 3970.695068359375,
+    "duration": 0
+  },
+  {
+    "name": "startup:intl-store-initialize:end",
+    "entryType": "mark",
+    "startTime": 4095.945068359375,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-authoring-worker:begin",
+    "entryType": "mark",
+    "startTime": 4134,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-renderer-worker:begin",
+    "entryType": "mark",
+    "startTime": 4134.030029296875,
+    "duration": 0
+  },
+  {
+    "name": "startup:app-load:end",
+    "entryType": "mark",
+    "startTime": 4299.5,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-renderer-worker:end",
+    "entryType": "mark",
+    "startTime": 4400.449951171875,
+    "duration": 0
+  },
+  {
+    "name": "startup:welcome-modal-render:end",
+    "entryType": "mark",
+    "startTime": 4685.75,
+    "duration": 0
+  },
+  {
+    "name": "EditorLoad-connectedCallback-start",
+    "entryType": "mark",
+    "startTime": 6487.174999952316,
+    "duration": 0
+  },
+  {
+    "name": "EditorLoad-connectedCallback-end",
+    "entryType": "mark",
+    "startTime": 6494.0199999809265,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring:begin",
+    "entryType": "mark",
+    "startTime": 6542.39501953125,
+    "duration": 0
+  },
+  {
+    "name": "startup:renderer:begin",
+    "entryType": "mark",
+    "startTime": 6542.56005859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:audio-renderer:begin",
+    "entryType": "mark",
+    "startTime": 6542.639892578125,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-renderer-worker:begin",
+    "entryType": "mark",
+    "startTime": 6543.02490234375,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-audio-renderer-worker:begin",
+    "entryType": "mark",
+    "startTime": 6545.080078125,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-audio-renderer-worker:end",
+    "entryType": "mark",
+    "startTime": 6551.14501953125,
+    "duration": 0
+  },
+  {
+    "name": "startup:audio-renderer:end",
+    "entryType": "mark",
+    "startTime": 6692.52490234375,
+    "duration": 0
+  },
+  {
+    "name": "startup:renderer:end",
+    "entryType": "mark",
+    "startTime": 6868.7099609375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-initializer:begin",
+    "entryType": "mark",
+    "startTime": 7948.824951171875,
+    "duration": 0
+  },
+  {
+    "name": "brick-manager-construction:1ebdc7a8-9380-4e27-8405-6a54f94a7a80:begin",
+    "entryType": "mark",
+    "startTime": 7969.614990234375,
+    "duration": 0
+  },
+  {
+    "name": "brick-manager-construction:1ebdc7a8-9380-4e27-8405-6a54f94a7a80:end",
+    "entryType": "mark",
+    "startTime": 7969.659912109375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-initialize-coediting-create-service:begin",
+    "entryType": "mark",
+    "startTime": 7971.110107421875,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-initialize-coediting-create-service:end",
+    "entryType": "mark",
+    "startTime": 7971.324951171875,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-initialize-coediting:end",
+    "entryType": "mark",
+    "startTime": 7971.3349609375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-ready:begin",
+    "entryType": "mark",
+    "startTime": 8012.760009765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-meta-ready:begin",
+    "entryType": "mark",
+    "startTime": 8018.02490234375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-auth-ready:begin",
+    "entryType": "mark",
+    "startTime": 8019.695068359375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-initializer:end",
+    "entryType": "mark",
+    "startTime": 8021.014892578125,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-pathkit-module:end",
+    "entryType": "mark",
+    "startTime": 8024.409912109375,
+    "duration": 0
+  },
+  {
+    "name": "startup:load-text-module:end",
+    "entryType": "mark",
+    "startTime": 8261.219970703125,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring:end",
+    "entryType": "mark",
+    "startTime": 8314.844970703125,
+    "duration": 0
+  },
+  {
+    "name": "startup:document-open-model-load:begin",
+    "entryType": "mark",
+    "startTime": 8354.465087890625,
+    "duration": 0
+  },
+  {
+    "name": "startup:document-open-validation:begin",
+    "entryType": "mark",
+    "startTime": 8357.18505859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:document-open-validation:end",
+    "entryType": "mark",
+    "startTime": 8358.60009765625,
+    "duration": 0
+  },
+  {
+    "name": "startup:document-open-model-load:end",
+    "entryType": "mark",
+    "startTime": 8358.7548828125,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-prepare-ready:begin",
+    "entryType": "mark",
+    "startTime": 8358.764892578125,
+    "duration": 0
+  },
+  {
+    "name": "startup:editor-load-direct:end",
+    "entryType": "mark",
+    "startTime": 8399.56005859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:document-create-from-scratch-custom-size-direct:end",
+    "entryType": "mark",
+    "startTime": 8399.81005859375,
+    "duration": 0
+  },
+  {
+    "name": "startup:header-bar-load-direct:end",
+    "entryType": "mark",
+    "startTime": 8788.405029296875,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-meta-ready:end",
+    "entryType": "mark",
+    "startTime": 8835.614990234375,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-auth-ready:end",
+    "entryType": "mark",
+    "startTime": 9178.449951171875,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-ready:end",
+    "entryType": "mark",
+    "startTime": 9178.469970703125,
+    "duration": 0
+  },
+  {
+    "name": "startup:authoring-fonts-prepare-ready:end",
+    "entryType": "mark",
+    "startTime": 9179.5,
+    "duration": 0
+  },
+  {
+    "name": "component-loader:load:ShareSheet:begin",
+    "entryType": "mark",
+    "startTime": 9478.210000038147,
+    "duration": 0
+  },
+  {
+    "name": "component-loader:load:ShareSheet:eval",
+    "entryType": "mark",
+    "startTime": 9627.509999990463,
+    "duration": 0
+  },
+  {
+    "name": "startup:app-load",
+    "entryType": "measure",
+    "startTime": 0,
+    "duration": 4299.5
+  },
+  {
+    "name": "startup:welcome-modal-render",
+    "entryType": "measure",
+    "startTime": 0,
+    "duration": 4685.75
+  },
+  {
+    "name": "startup:editor-load-direct",
+    "entryType": "measure",
+    "startTime": 0,
+    "duration": 8399.56005859375
+  },
+  {
+    "name": "startup:document-create-from-scratch-custom-size-direct",
+    "entryType": "measure",
+    "startTime": 0,
+    "duration": 8399.81005859375
+  },
+  {
+    "name": "startup:header-bar-load-direct",
+    "entryType": "measure",
+    "startTime": 0,
+    "duration": 8788.405029296875
+  },
+  {
+    "name": "brick-manager-construction:fcaa3b7d-e780-4830-aff0-3e467a136235",
+    "entryType": "measure",
+    "startTime": 391.655029296875,
+    "duration": 0.594970703125
+  },
+  {
+    "name": "startup:ims-load",
+    "entryType": "measure",
+    "startTime": 394.18505859375,
+    "duration": 1246.324951171875
+  },
+  {
+    "name": "Zone",
+    "entryType": "measure",
+    "startTime": 2518.5800001621246,
+    "duration": 0.15999984741210938
+  },
+  {
+    "name": "Zone:ZoneAwarePromise",
+    "entryType": "measure",
+    "startTime": 2518.7750000953674,
+    "duration": 0.31999993324279785
+  },
+  {
+    "name": "Zone:toString",
+    "entryType": "measure",
+    "startTime": 2519.1050000190735,
+    "duration": 0.07500004768371582
+  },
+  {
+    "name": "Zone:util",
+    "entryType": "measure",
+    "startTime": 2519.210000038147,
+    "duration": 0.25999999046325684
+  },
+  {
+    "name": "Zone:legacy",
+    "entryType": "measure",
+    "startTime": 2519.4700000286102,
+    "duration": 0.019999980926513672
+  },
+  {
+    "name": "Zone:timers",
+    "entryType": "measure",
+    "startTime": 2519.4900000095367,
+    "duration": 0.10000014305114746
+  },
+  {
+    "name": "Zone:blocking",
+    "entryType": "measure",
+    "startTime": 2519.590000152588,
+    "duration": 0.039999961853027344
+  },
+  {
+    "name": "Zone:EventTarget",
+    "entryType": "measure",
+    "startTime": 2519.630000114441,
+    "duration": 0.30499982833862305
+  },
+  {
+    "name": "Zone:MutationObserver",
+    "entryType": "measure",
+    "startTime": 2519.9400000572205,
+    "duration": 0.059999942779541016
+  },
+  {
+    "name": "Zone:IntersectionObserver",
+    "entryType": "measure",
+    "startTime": 2520.0199999809265,
+    "duration": 0.08500003814697266
+  },
+  {
+    "name": "Zone:FileReader",
+    "entryType": "measure",
+    "startTime": 2520.1100001335144,
+    "duration": 0.28999996185302734
+  },
+  {
+    "name": "Zone:on_property",
+    "entryType": "measure",
+    "startTime": 2520.4100000858307,
+    "duration": 10.629999876022339
+  },
+  {
+    "name": "Zone:customElements",
+    "entryType": "measure",
+    "startTime": 2531.0499999523163,
+    "duration": 0.06500005722045898
+  },
+  {
+    "name": "Zone:XHR",
+    "entryType": "measure",
+    "startTime": 2531.1200001239777,
+    "duration": 0.14999985694885254
+  },
+  {
+    "name": "Zone:geolocation",
+    "entryType": "measure",
+    "startTime": 2531.2799999713898,
+    "duration": 0.05000019073486328
+  },
+  {
+    "name": "Zone:queueMicrotask",
+    "entryType": "measure",
+    "startTime": 2531.3300001621246,
+    "duration": 0.02499985694885254
+  },
+  {
+    "name": "startup:intl-store-initialize",
+    "entryType": "measure",
+    "startTime": 3679.530029296875,
+    "duration": 416.4150390625
+  },
+  {
+    "name": "startup:load-authoring-worker",
+    "entryType": "measure",
+    "startTime": 3689.43994140625,
+    "duration": 2.16015625
+  },
+  {
+    "name": "startup:access-profile-load",
+    "entryType": "measure",
+    "startTime": 3689.89501953125,
+    "duration": 1.955078125
+  },
+  {
+    "name": "startup:router-startup",
+    "entryType": "measure",
+    "startTime": 3822.47509765625,
+    "duration": 1.829833984375
+  },
+  {
+    "name": "startup:load-text-module",
+    "entryType": "measure",
+    "startTime": 3966.385009765625,
+    "duration": 4294.8349609375
+  },
+  {
+    "name": "startup:load-pathkit-module",
+    "entryType": "measure",
+    "startTime": 3967.31005859375,
+    "duration": 4057.099853515625
+  },
+  {
+    "name": "startup:authoring-initialize-coediting",
+    "entryType": "measure",
+    "startTime": 3970.695068359375,
+    "duration": 4000.639892578125
+  },
+  {
+    "name": "startup:load-renderer-worker",
+    "entryType": "measure",
+    "startTime": 4134.030029296875,
+    "duration": 266.419921875
+  },
+  {
+    "name": "EditorLoad-connectedCallback-duration",
+    "entryType": "measure",
+    "startTime": 6487.174999952316,
+    "duration": 6.8450000286102295
+  },
+  {
+    "name": "startup:authoring",
+    "entryType": "measure",
+    "startTime": 6542.39501953125,
+    "duration": 1772.449951171875
+  },
+  {
+    "name": "startup:renderer",
+    "entryType": "measure",
+    "startTime": 6542.56005859375,
+    "duration": 326.14990234375
+  },
+  {
+    "name": "startup:audio-renderer",
+    "entryType": "measure",
+    "startTime": 6542.639892578125,
+    "duration": 149.885009765625
+  },
+  {
+    "name": "startup:load-audio-renderer-worker",
+    "entryType": "measure",
+    "startTime": 6545.080078125,
+    "duration": 6.06494140625
+  },
+  {
+    "name": "startup:authoring-fonts-initializer",
+    "entryType": "measure",
+    "startTime": 7948.824951171875,
+    "duration": 72.18994140625
+  },
+  {
+    "name": "brick-manager-construction:1ebdc7a8-9380-4e27-8405-6a54f94a7a80",
+    "entryType": "measure",
+    "startTime": 7969.614990234375,
+    "duration": 0.044921875
+  },
+  {
+    "name": "startup:authoring-initialize-coediting-create-service",
+    "entryType": "measure",
+    "startTime": 7971.110107421875,
+    "duration": 0.21484375
+  },
+  {
+    "name": "startup:authoring-fonts-ready",
+    "entryType": "measure",
+    "startTime": 8012.760009765625,
+    "duration": 1165.7099609375
+  },
+  {
+    "name": "startup:authoring-fonts-meta-ready",
+    "entryType": "measure",
+    "startTime": 8018.02490234375,
+    "duration": 817.590087890625
+  },
+  {
+    "name": "startup:authoring-fonts-auth-ready",
+    "entryType": "measure",
+    "startTime": 8019.695068359375,
+    "duration": 1158.7548828125
+  },
+  {
+    "name": "startup:document-open-model-load",
+    "entryType": "measure",
+    "startTime": 8354.465087890625,
+    "duration": 4.289794921875
+  },
+  {
+    "name": "startup:document-open-validation",
+    "entryType": "measure",
+    "startTime": 8357.18505859375,
+    "duration": 1.4150390625
+  },
+  {
+    "name": "startup:authoring-fonts-prepare-ready",
+    "entryType": "measure",
+    "startTime": 8358.764892578125,
+    "duration": 820.735107421875
+  },
+  {
+    "name": "component-loader:load:ShareSheet:eval",
+    "entryType": "measure",
+    "startTime": 9478.210000038147,
+    "duration": 149.29999995231628
+  },
+  {
+    "name": "component-loader:load:ShareSheet:init",
+    "entryType": "measure",
+    "startTime": 9627.509999990463,
+    "duration": 261.2999999523163
+  }
+]

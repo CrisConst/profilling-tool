@@ -1,0 +1,5350 @@
+[
+  {
+    "startTime": 0,
+    "entryType": "navigation",
+    "name": "https://localhost.adobe.com:8080/new?width=2560&height=2560&unit=px&aspectRatioLock=false&tasksGroup=document&taskID=custom-size&category=text&learn=for-you",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 600,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_icons-workflow_0_44_0_node_mod-a6633c.f7ee39338bae6be29380.js",
+    "source": "N/A",
+    "duration": 239
+  },
+  {
+    "startTime": 609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_start-from-asset-dialog_StartFromAssetDialog_ts.de1f6be64c49b5f2df08.js",
+    "source": "N/A",
+    "duration": 219.0000000000001
+  },
+  {
+    "startTime": 609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_theme_0_44_0_node_modules_spec-417a4d.ec728277f4f01da875c5.js",
+    "source": "N/A",
+    "duration": 220.0000000000001
+  },
+  {
+    "startTime": 609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_create-custom-size_x-create-custom-size_ts-src_components_create-menu-ed4d4f.17ce8f42266d54cd4959.js",
+    "source": "N/A",
+    "duration": 220.0000000000001
+  },
+  {
+    "startTime": 610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_linked-assets_quick-metadata_dist_AIMetadataReader_js-platform_au-811225.c299f60065ee5f2283ce.js",
+    "source": "N/A",
+    "duration": 221.0000000000001
+  },
+  {
+    "startTime": 610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_icons-workflow_0_44_0_node_mod-718912.337a864733c4d1358e41.js",
+    "source": "N/A",
+    "duration": 221.0000000000001
+  },
+  {
+    "startTime": 610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_web-components_dist_components_hz-app-frame_index_js.2c48179738cc1ad157d3.js",
+    "source": "N/A",
+    "duration": 221.0000000000001
+  },
+  {
+    "startTime": 610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_user-info_dist_ui_public-profile-store_PublicProfileStore_js.3e39bc3271dc56cb96e9.js",
+    "source": "N/A",
+    "duration": 223
+  },
+  {
+    "startTime": 610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_neural-features-ui_dist_config-interface_js-features_neural_neural-f-2c50f6.b3a5de73d7918c8273e7.js",
+    "source": "N/A",
+    "duration": 224
+  },
+  {
+    "startTime": 611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_create-menu_standard-sizes_StandardSizes_ts.68a909d62638adfa48ec.js",
+    "source": "N/A",
+    "duration": 223
+  },
+  {
+    "startTime": 611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-asset-info_dist_index_js.263eceb3f8e7aa83d736.js",
+    "source": "N/A",
+    "duration": 224
+  },
+  {
+    "startTime": 611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_home-modules_home-task-module_utils_utils_ts-features_x-cobe_dist_imp-7bae40.243d8cd9d2521a75b486.js",
+    "source": "N/A",
+    "duration": 225
+  },
+  {
+    "startTime": 611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_create-menu_create-menu-wrapper_x-create-menu-wrapper_ts.f58bbeb0a8e4d297c1ad.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_create-menu_upload-media-button_event_ts-src_components_start-from-yo-326017.d464b77f6b01d203c68d.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 612,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_license-upgrade_dist_stores_LicenseUpgradeStore_js-platform_authoring_globa-195bde.3394d9e69149544f1a17.js",
+    "source": "N/A",
+    "duration": 225
+  },
+  {
+    "startTime": 612,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_edu_components_edu-preview-header_EduPreviewHeader_ts.d3f35c1f4fe7e35e019d.js",
+    "source": "N/A",
+    "duration": 226
+  },
+  {
+    "startTime": 613,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_home-modules_home-task-module_consts_ts.bf50b5b5a5019d9ae47e.js",
+    "source": "N/A",
+    "duration": 226
+  },
+  {
+    "startTime": 613,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_theme_0_44_0_node_modules_spec-cb6b95.72b574efddc8a78a4194.js",
+    "source": "N/A",
+    "duration": 227
+  },
+  {
+    "startTime": 613,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_theme_0_44_0_node_modules_spec-0b0ee6.309e9ac77b9c394e1c1e.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 613,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_theme_0_44_0_node_modules_spec-877b7e.56100dc09bc643c3bf00.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 613,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_theme_0_44_0_node_modules_spec-30a1dc.daed0e1a537104bb84a8.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 614,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_toolbar-button_x-toolbar-button_js.cfecd9b797003ee1488f.js",
+    "source": "N/A",
+    "duration": 228
+  },
+  {
+    "startTime": 614,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_constants_TooltipConstants_ts.3de69dc07a04d8be5fcf.js",
+    "source": "N/A",
+    "duration": 229
+  },
+  {
+    "startTime": 614,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_accordion_0_44_0_node_modules_-570d0e.6dac8e95f88902023e9b.js",
+    "source": "N/A",
+    "duration": 229
+  },
+  {
+    "startTime": 819.0000000000001,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/scripttemplates/otSDKStub.js",
+    "source": "N/A",
+    "duration": 22.999999999999886
+  },
+  {
+    "startTime": 614,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_dialog_sp-dialog_js-p-1646fb.b2d05ee77fb096616716.js",
+    "source": "N/A",
+    "duration": 229
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_csat-modal_consts_ts.e016267b06b6448da8a8.js",
+    "source": "N/A",
+    "duration": 231
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_editor-header-loading-bar_x-editor-header-bar-skeleton_ts-src_compone-fbc344.00ccfc3b7665d326c0cd.js",
+    "source": "N/A",
+    "duration": 231
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_braze_braze-carousel_x-braze-carousel_ts-platform_authoring_canvas-in-0226a7.e0e30691dc542f7fa986.js",
+    "source": "N/A",
+    "duration": 231
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_blocked_Blocked_js.8e585bb1691e77a91ce7.js",
+    "source": "N/A",
+    "duration": 232
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_date-fns_2_29_3_node_modules_date-fns_esm_endOfWeek_in-f3b2f3.df50eb102d7ad4d7b7da.js",
+    "source": "N/A",
+    "duration": 236
+  },
+  {
+    "startTime": 615,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_susi_susi-screen_loe-susi_x-loe-susi-container_ts-src_components_welc-34d383.dccd9ae54f897f5b10c8.js",
+    "source": "N/A",
+    "duration": 244
+  },
+  {
+    "startTime": 616,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_common_AppCommon_css_ts-src_components_device-not-eligible_x-device-n-7a035e.911567a6b187f2a1fd3b.js",
+    "source": "N/A",
+    "duration": 235
+  },
+  {
+    "startTime": 616,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_quick-actions-view-all-dialog_x-quick-actions-view-all-dialog_ts-feat-745e94.aad8e3e5f75955f4a44c.js",
+    "source": "N/A",
+    "duration": 239
+  },
+  {
+    "startTime": 616,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_quick-actions_QuickActionModal_ts.dd3dd4131613d7ad4af8.js",
+    "source": "N/A",
+    "duration": 239
+  },
+  {
+    "startTime": 620,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_user-info_dist_ui_user-store_UserProfile_js.bc8c0f3aa9e366a79f63.js",
+    "source": "N/A",
+    "duration": 238
+  },
+  {
+    "startTime": 620,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_user-info_dist_ui_user-store_UserStore_js.144095a752794962e431.js",
+    "source": "N/A",
+    "duration": 240
+  },
+  {
+    "startTime": 622,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_virtual-slot_dist_components_HzVirtualSlot_js-platform_ui_com-f85123.46f768dd53086081f01e.js",
+    "source": "N/A",
+    "duration": 249
+  },
+  {
+    "startTime": 622,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-iframe-sdk-api_dist_index_js-features_extensibility_ad-dfe201.8537c75e9823bb65ea00.js",
+    "source": "N/A",
+    "duration": 250
+  },
+  {
+    "startTime": 623,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_coachmarks_firefly-metering_FireflyMeteringCoachmarkController_ts-src-24f8c5.3d2d8dd8a174f6d6181c.js",
+    "source": "N/A",
+    "duration": 252
+  },
+  {
+    "startTime": 622,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_icons_dist_hz-icon-discord_index_js-platform_ui_components_x--bc737b.aaa81b23c64a4419c6e6.js",
+    "source": "N/A",
+    "duration": 253
+  },
+  {
+    "startTime": 609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_lottiefiles_lottie-player_2_0_2_node_modules_lottiefil-85e65a.71c7d6fe9f2b826f1802.js",
+    "source": "N/A",
+    "duration": 268
+  },
+  {
+    "startTime": 614,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-chev-8ca9fe.ac71c1b6572bba4c7280.js",
+    "source": "N/A",
+    "duration": 264
+  },
+  {
+    "startTime": 623,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_sentry_wrapper_1_0_1_node_modules_sentry_wrapper_dist_-56a75f.3148a0cc87634170a429.js",
+    "source": "N/A",
+    "duration": 254
+  },
+  {
+    "startTime": 623,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_service-integration_utility-nav_dist_src_ui_feedback-menu_hz-feedbac-278f9d.53fc9a266e4d8e549636.js",
+    "source": "N/A",
+    "duration": 254
+  },
+  {
+    "startTime": 624,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_mobile-blocked-view_x-mobile-block_ts.bbbd12106c9470c6ee2c.js",
+    "source": "N/A",
+    "duration": 255
+  },
+  {
+    "startTime": 616,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_content-scheduler_content-composer_dist_ContentComposerUIBrick_js-features_-ba33d8.f8aed41951fe4f5c07af.js",
+    "source": "N/A",
+    "duration": 265
+  },
+  {
+    "startTime": 623,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_utility-nav_UtilityNavContainer_ts.13b822d9852669621337.js",
+    "source": "N/A",
+    "duration": 258
+  },
+  {
+    "startTime": 809,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-appShellBricks.3475fa13a459a9bad80a.js",
+    "source": "N/A",
+    "duration": 71
+  },
+  {
+    "startTime": 624,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-app-component.b3efe07b394524193bf7.js",
+    "source": "N/A",
+    "duration": 269
+  },
+  {
+    "startTime": 808,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-startup-otel.23ba7745485a80a1fea6.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 616,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-app-component-deps.6aaa444fe8c80b4259dc.js",
+    "source": "N/A",
+    "duration": 291
+  },
+  {
+    "startTime": 865,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/consent/7a5eb705-95ed-4cc4-a11d-0cc5760e93db-test/7a5eb705-95ed-4cc4-a11d-0cc5760e93db-test.json",
+    "source": "N/A",
+    "duration": 76.00000000000011
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/vendor-coretech-fontkit.a484bd19ed50f0d3e81f.js",
+    "source": "N/A",
+    "duration": 21
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/vendor-coretech-lokidb.1b19c065e8d07ffa703c.js",
+    "source": "N/A",
+    "duration": 23
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_services_clouddocs_clouddocs_dist_index_js.cc9011fcd0b71d5bc185.js",
+    "source": "N/A",
+    "duration": 26
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/vendor-coretech-typequest.ff0b2eefd8a5f7331b4c.js",
+    "source": "N/A",
+    "duration": 68.00000000000011
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_resource_client-bitmap-utils_dist_ResourceLoadUtils_js.ba0fe81fda6ed20a87e8.js",
+    "source": "N/A",
+    "duration": 85
+  },
+  {
+    "startTime": 884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/vendor-fontpicker.f82b4da3278f32e97453.js",
+    "source": "N/A",
+    "duration": 101
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_query-selector-shadow-dom_1_0_0_node_modules_query-sel-64b598.3938426489bb6e16786a.js",
+    "source": "N/A",
+    "duration": 24
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_temporal-core_dist_FrameTimeUtils_js.1dd0a41a1124793d68d5.js",
+    "source": "N/A",
+    "duration": 25
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_authoring-core_dist_view_UISyncStateUtils_js-platform_foundation_-082081.ae26a066da4f851b9514.js",
+    "source": "N/A",
+    "duration": 27
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_utils_math_dist_FrameRectUtils_js.4a86cabba0f3b87bdaff.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_checkbox_index_js.3bd7e0eadeda8bae4f83.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_ui-core_dist_stores_text-store_TextStore_js-platform_ui_ui-core_dist_uti-423b37.f91c39bd03028c04d161.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_swatch_sp-swatch_js.ee269d1e37219f8c2d82.js",
+    "source": "N/A",
+    "duration": 34
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-input_dist_HzCanvasInput_js.6c15991d00fc78af7951.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_path-geometry_dist_PathGeometryMaker_js-shared_selectors_dist_Sel-e96b33.a8cff3ca93fd217003a9.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 886,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_swatch_sp-swatch-group_js.c602102558092aff5f42.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 886,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_radio_sp-radio-group_-3727e8.c6d43c9c7ebb779d5d01.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 886,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_table_sp-table-cell_j-582e10.d78d3c0a7fe396f27a96.js",
+    "source": "N/A",
+    "duration": 37
+  },
+  {
+    "startTime": 887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_monetization_fyi-banner_x-fy-42368f.0a1cd867bcebe87a88fb.js",
+    "source": "N/A",
+    "duration": 37
+  },
+  {
+    "startTime": 887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_utils_canvas-utils_dist_CanvasTypes_js-platform_services_component-u-4d5cbc.05fb6fa2fc0f818eb8c5.js",
+    "source": "N/A",
+    "duration": 38
+  },
+  {
+    "startTime": 887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_service-integration_invitation-service-client_dist_index_js.81d915b76584c5a5b7fc.js",
+    "source": "N/A",
+    "duration": 39
+  },
+  {
+    "startTime": 887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_libraries_consts_ts-src_stores_brands-store_BrandUtils_ts-platform_ui_components-ddf1a2.fe9690a3d13842b7f713.js",
+    "source": "N/A",
+    "duration": 40
+  },
+  {
+    "startTime": 887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_premium-banner_x-premium-banner_ts-common_temp_node_modules_pnpm_spec-1588fe.20343c615e81f5d1fd37.js",
+    "source": "N/A",
+    "duration": 42
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_neural-text-types_dist_authoring_NonPersistedECSDefinitions_js.1dc49de041c963cca1dc.js",
+    "source": "N/A",
+    "duration": 47
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_project-organizer_dist_x-project-browser_js-features_document-organizer_dis-331075.8e9b9265adbf1ac135d7.js",
+    "source": "N/A",
+    "duration": 50
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_publish-web-dialog_x-publish-web-dialog_ts-common_temp_node_modules_p-c06839.9922a5d4c22f94f127d9.js",
+    "source": "N/A",
+    "duration": 51
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_hz-worker-types_dist_infrastructure_HzWorkers_js-platform_common_uti-b11f15.d2517eb546047619b415.js",
+    "source": "N/A",
+    "duration": 54.000000000000114
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_merchandising-iframe_x-merch-5e0884.cb1c1785a6ec1a938459.js",
+    "source": "N/A",
+    "duration": 59.000000000000114
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_renderer_video-webcodecs_dist_VideoWebCodecWorkerEventListener_js-platform_-466ee2.36c1ceb40210df6b32ca.js",
+    "source": "N/A",
+    "duration": 71.00000000000011
+  },
+  {
+    "startTime": 888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_template-publishing-dialog_x-template-publishing-dialog_ts.1f50367afe45e900eaff.js",
+    "source": "N/A",
+    "duration": 99
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_canvas-infra_decorations-core_dist_ui-sync_DecorationActionMessag-150667.1fba6b1a0f189c36bfd9.js",
+    "source": "N/A",
+    "duration": 66.00000000000011
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_audio-video_media-element-pool_dist_AudioElementPoolManager_js-platf-80f4b8.5b1488beef4087898b63.js",
+    "source": "N/A",
+    "duration": 69.00000000000011
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_abuse-report_dist_hz-abuse-report_HzAbuseReportUi_js-platform_ui_components-8b232b.32e82cdb2cba25d41359.js",
+    "source": "N/A",
+    "duration": 72
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_fast-deep-equal_3_1_3_node_modules_fast-deep-equal_ind-bb9de1.d3c1bffb69b4d7058e91.js",
+    "source": "N/A",
+    "duration": 73
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_sceneline_sceneline-types_dist_ScenelineConstants_js-platform_com-da97a9.6c6831229788d24b5f14.js",
+    "source": "N/A",
+    "duration": 79
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_canvas-infra_arrowheads-types_dist_PersistedECSDefinitions_js-pla-009567.4646b0cbf8b1d4fafda4.js",
+    "source": "N/A",
+    "duration": 80
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-export_dist_utils_BatchExport_js.711d68fe924ce4707c02.js",
+    "source": "N/A",
+    "duration": 80
+  },
+  {
+    "startTime": 889,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_adobe-fonts_core_0_6_1_mobx_6_1_7_node_modules_adobe-f-aaccc4.d349bae03bfae620c996.js",
+    "source": "N/A",
+    "duration": 82
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_view-models_conversion-dialog_ConversionDialogProp_ts.4edce8352f9c92516806.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_neural-features-ui_assets_legalTextEffect_png-features_neural_neural-5a5e98.6266464665babb381980.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_view-models_project-x-organizer_x-organizer-asset_express-asset_ExpressDrawing_t-707f2b.13e01fdadb96f5ea35e3.js",
+    "source": "N/A",
+    "duration": 84
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-export_dist_config-interface_js-features_x-editor-services_dist_e-50dcfd.095375e99f2691d77c21.js",
+    "source": "N/A",
+    "duration": 84
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_adobe-fonts_analytics_0_5_1_mobx_6_1_7_node_modules_ad-5238ad.73e39b3b16a99d508ed2.js",
+    "source": "N/A",
+    "duration": 84
+  },
+  {
+    "startTime": 890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_x-organizer-analytics-store_index_ts.2179971c40baa84dc4bf.js",
+    "source": "N/A",
+    "duration": 85
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_icons-workflow_0_44_0_node_mod-42d852.3ceefb0bb08f3a959df6.js",
+    "source": "N/A",
+    "duration": 86
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_x-learn_dist_src_guided-activity_utils_js.d35363a6e7057aef5687.js",
+    "source": "N/A",
+    "duration": 86
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_view-models_project-x-organizer_x-organizer-asset_express-asset_ExpressPost_ts.b48e7788c873cfea2105.js",
+    "source": "N/A",
+    "duration": 86
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-input_dist_types_Keys_js-platform_ui_ui-core_dist_services_clipbo-a3f370.965793299a5fdf1a25c1.js",
+    "source": "N/A",
+    "duration": 86
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_color-picker_dist_bricks_ColorPickerBrick_js.0de7cde0b4d982d3d3a9.js",
+    "source": "N/A",
+    "duration": 89
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_paywall_CommerceURLBuilder_js.5f988857fcc571fb48ed.js",
+    "source": "N/A",
+    "duration": 90
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_view-models_project-x-organizer_x-organizer-asset_legacy-asset_CCXLegacyMultiPag-14d87c.f1090b78c5d89b3b57e4.js",
+    "source": "N/A",
+    "duration": 94
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:ZoneAwarePromise",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:ZoneAwarePromise",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:toString",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:toString",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:util",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:util",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:legacy",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:legacy",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:timers",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:timers",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:blocking",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:blocking",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "mark",
+    "name": "Zone:EventTarget",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 905,
+    "entryType": "measure",
+    "name": "Zone:EventTarget",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 906,
+    "entryType": "mark",
+    "name": "Zone:MutationObserver",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 906,
+    "entryType": "measure",
+    "name": "Zone:MutationObserver",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 906,
+    "entryType": "mark",
+    "name": "Zone:IntersectionObserver",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 906,
+    "entryType": "measure",
+    "name": "Zone:IntersectionObserver",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 907,
+    "entryType": "mark",
+    "name": "Zone:FileReader",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 907,
+    "entryType": "measure",
+    "name": "Zone:FileReader",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 907,
+    "entryType": "mark",
+    "name": "Zone:on_property",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 907,
+    "entryType": "measure",
+    "name": "Zone:on_property",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 910,
+    "entryType": "mark",
+    "name": "Zone:customElements",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 910,
+    "entryType": "measure",
+    "name": "Zone:customElements",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 910,
+    "entryType": "mark",
+    "name": "Zone:XHR",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 910,
+    "entryType": "measure",
+    "name": "Zone:XHR",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 911,
+    "entryType": "mark",
+    "name": "Zone:geolocation",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 911,
+    "entryType": "measure",
+    "name": "Zone:geolocation",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 911,
+    "entryType": "mark",
+    "name": "Zone:queueMicrotask",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 911,
+    "entryType": "measure",
+    "name": "Zone:queueMicrotask",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_authorization_dist_EntitlementRefresherFactory_js-features_authorization_di-e16edc.1c0f060665dc5c7071f7.js",
+    "source": "N/A",
+    "duration": 137
+  },
+  {
+    "startTime": 891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_validator_13_11_0_node_modules_validator_es_lib_isMail-b202c5.3750eb694c3eb12114e3.js",
+    "source": "N/A",
+    "duration": 147
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_enum_InspireCCXCurationGroup_js-platform_ui_inspire-b86f61.88feeb8158951284513c.js",
+    "source": "N/A",
+    "duration": 97
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_edu_classroom-manager_dist_components_dialogs_assignment-live_x-assignment--ca8348.673610caf95fa9066888.js",
+    "source": "N/A",
+    "duration": 98
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_firefly-metering_dist_FireflyMeteringBrick_js-features_neural_neural-3c678b.71fd6ef0fa7ec68523c0.js",
+    "source": "N/A",
+    "duration": 106
+  },
+  {
+    "startTime": 892,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_license-upgrade_dist_LicenseUpgradeBrick_js-platform_authoring_containers_a-f99ee5.63895e42c4c119d5e65a.js",
+    "source": "N/A",
+    "duration": 122
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_constants_SearchConstants_ts.c531d58f55a803c915d8.js",
+    "source": "N/A",
+    "duration": 98
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_text-ui_dist_TextUIBrick_js.1ec67f41b4989a56f090.js",
+    "source": "N/A",
+    "duration": 105
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_edu_edu-user-info_dist_types_index_js-platform_common_service-integration_c-58a0a8.5c7666c4b3ce5875e1ca.js",
+    "source": "N/A",
+    "duration": 106
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_brands-store_BrandsElementsStore_ts-src_stores_brands-store_BrandsStore_t-2413c7.bb2534eec708798e4ebb.js",
+    "source": "N/A",
+    "duration": 110.00000000000011
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_services_sam-controller_dist_factory_js.9fc7d59c624d06bd4d41.js",
+    "source": "N/A",
+    "duration": 110.00000000000011
+  },
+  {
+    "startTime": 893,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_qr-code-styling_1_6_0-rc_1_node_modules_qr-code-stylin-7fb834.b80296cf84a3ba767ab4.js",
+    "source": "N/A",
+    "duration": 113
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_print_print-common_dist_bricks_PrintUtilsBrick_js.0388d446cdc05342ced6.js",
+    "source": "N/A",
+    "duration": 112
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_clio-inspirations-store_ClioInspirationsStore_ts-src_stores_home-quick-ac-b74419.f1015dc097ee46271c89.js",
+    "source": "N/A",
+    "duration": 114
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_floating-ui_dom_1_5_3_node_modules_floating-ui_dom_dis-78d862.0b49e4a6d7bea1be9d75.js",
+    "source": "N/A",
+    "duration": 118
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_storage_factory_ts.2f0bc41fd3484411e58a.js",
+    "source": "N/A",
+    "duration": 120
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_virtual-slot_dist_bricks_VirtualSlotBrick_js-platform_ui_over-e7bb78.f60a7b0495079c1ff634.js",
+    "source": "N/A",
+    "duration": 120
+  },
+  {
+    "startTime": 894,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_edu_classroom-manager_dist_components_dialogs_invite-students-gc-permission-019e04.dda74fa6bb6a2295d4b2.js",
+    "source": "N/A",
+    "duration": 126
+  },
+  {
+    "startTime": 895,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_paywall_FreeForLimitedTime_f-5ca2c2.541b21f710af2e925ae4.js",
+    "source": "N/A",
+    "duration": 125
+  },
+  {
+    "startTime": 895,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_shape-repository-worker_dist_ui_initializer_js-platform_authoring_document--94416a.3ff4642ee8f6951ad2c7.js",
+    "source": "N/A",
+    "duration": 125
+  },
+  {
+    "startTime": 895,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_user-visit-records_UserVisitRecordsConstants_ts-src_utils_custom-trigger--984f84.4682853515d803d325ba.js",
+    "source": "N/A",
+    "duration": 129
+  },
+  {
+    "startTime": 895,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_analytics_publish-analytics-store_factory_ts-src_stores_publish-view-stor-77f2c9.d1400aa7ebbeb18b82be.js",
+    "source": "N/A",
+    "duration": 129
+  },
+  {
+    "startTime": 895,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-uiStartupBricks.8ffeba0703afca596a42.js",
+    "source": "N/A",
+    "duration": 229
+  },
+  {
+    "startTime": 987,
+    "entryType": "resource",
+    "name": "https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location",
+    "source": "N/A",
+    "duration": 115
+  },
+  {
+    "startTime": 1021.0000000000001,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/SafariMemoryWorkarounds.24b05057f27e4b31f4c4.js",
+    "source": "N/A",
+    "duration": 2.9999999999998863
+  },
+  {
+    "startTime": 1073,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_capture_color-theme-core_1_1_1_hyfxbw4j3a2zjr6zdcmvwj26qa_node_-a4e764.c4db77f142a77b3975a5.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 812,
+    "entryType": "resource",
+    "name": "https://p13n-stage.adobe.io/fg/api/v3/feature?clientId=horizon-platform",
+    "source": "N/A",
+    "duration": 578.0000000000002
+  },
+  {
+    "startTime": 867,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/c0160f/00000000000000007735dac8/30/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n4&v=3",
+    "source": "N/A",
+    "duration": 384
+  },
+  {
+    "startTime": 1173,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/scripttemplates/202311.1.0/otBannerSdk.js",
+    "source": "N/A",
+    "duration": 21
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_status-light_0_44_0_node_modul-c1c720.72d1672510a9e825a4c9.js",
+    "source": "N/A",
+    "duration": 23
+  },
+  {
+    "startTime": 1471,
+    "entryType": "mark",
+    "name": "startup:intl-store-initialize:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1480,
+    "entryType": "mark",
+    "name": "startup:load-authoring-worker:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1480,
+    "entryType": "mark",
+    "name": "startup:access-profile-load:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1480,
+    "entryType": "measure",
+    "name": "startup:access-profile-load",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 1480,
+    "entryType": "measure",
+    "name": "startup:load-authoring-worker",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 1482,
+    "entryType": "mark",
+    "name": "startup:access-profile-load:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1482,
+    "entryType": "mark",
+    "name": "startup:load-authoring-worker:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_uab-asset-browser_dist_stores_UABStore_js.6f834f619faf35a29856.js",
+    "source": "N/A",
+    "duration": 50
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-management_ffc-add-on-source_dist_bricks_FFCAddOnSourc-7be255.6290c953b39b7a3606b7.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_memory-tools_dist_MemoryToolsBrick_js.fd0eaf4d366a2105a058.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 1440,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-common_dist_config-interface_js-features_presen-a2a552.3fb8a32022894941e5a8.js",
+    "source": "N/A",
+    "duration": 82
+  },
+  {
+    "startTime": 1440,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_loe_dist_types_SusiTriggerLocation_js-features_presentations_presentations--2a64c7.f4d8d05101b2352edec4.js",
+    "source": "N/A",
+    "duration": 110
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_drw-store_dist_store_DrwStoreBrick_js-features_search-suggestion_dist_Searc-8ec4a7.a0ebac8ed3c2df1da49d.js",
+    "source": "N/A",
+    "duration": 131
+  },
+  {
+    "startTime": 1439,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_express-fi_dist_ExpressFiBrick_js-features_intl_dev-tools_dist_IntlDevTools-062254.e11af3a5d99c2480f14b.js",
+    "source": "N/A",
+    "duration": 131
+  },
+  {
+    "startTime": 1496,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/consent/7a5eb705-95ed-4cc4-a11d-0cc5760e93db-test/238162c2-cd49-4a9d-8475-a1932a17f187/en.json",
+    "source": "N/A",
+    "duration": 91
+  },
+  {
+    "startTime": 1444,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_license-upgrade_dist_components_hz-license-upgrade-overlay_index_js.9de285e805d592366229.js",
+    "source": "N/A",
+    "duration": 179
+  },
+  {
+    "startTime": 1444,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_dialog_sp-dialog-wrapper_js.c0a78b409db7b2f0b10b.js",
+    "source": "N/A",
+    "duration": 191
+  },
+  {
+    "startTime": 1444,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_common_localization_dist_ui_components_hz-language-switcher_index_js.fce0ed36edd8e95b79c4.js",
+    "source": "N/A",
+    "duration": 212.00000000000023
+  },
+  {
+    "startTime": 1444,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_license-upgrade_dist_components_hz-license-upgrade_index_js.36ce20002a2ac0e6a1c8.js",
+    "source": "N/A",
+    "duration": 212.00000000000023
+  },
+  {
+    "startTime": 1445,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-theme-components.f9f55b1b742ace5fe3bf.js",
+    "source": "N/A",
+    "duration": 190
+  },
+  {
+    "startTime": 1595,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/scripttemplates/202311.1.0/assets/otFlat.json",
+    "source": "N/A",
+    "duration": 23
+  },
+  {
+    "startTime": 1596,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/scripttemplates/202311.1.0/assets/otPcCenter.json",
+    "source": "N/A",
+    "duration": 22
+  },
+  {
+    "startTime": 1596,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/scripttemplates/202311.1.0/assets/otCommonStyles.css",
+    "source": "N/A",
+    "duration": 22
+  },
+  {
+    "startTime": 1648.0000000000002,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+    "source": "N/A",
+    "duration": 22.999999999999773
+  },
+  {
+    "startTime": 1648.0000000000002,
+    "entryType": "resource",
+    "name": "https://cdn.cookielaw.org/logos/static/ot_company_logo.png",
+    "source": "N/A",
+    "duration": 23.999999999999773
+  },
+  {
+    "startTime": 1630.0000000000002,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/5c07ba/00000000000000007735dad8/30/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n7&v=3",
+    "source": "N/A",
+    "duration": 77.99999999999977
+  },
+  {
+    "startTime": 1458,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_common_service-integration_lec-errors_dist_index_js.02dd30a2ea6b5e2986ca.js",
+    "source": "N/A",
+    "duration": 253
+  },
+  {
+    "startTime": 1655,
+    "entryType": "resource",
+    "name": "https://sstats.adobe.com/ee/v1/interact?configId=11dd9af9-1455-4159-bb5e-0b1fdf039f76:dev&requestId=dcb65d66-fa83-4cfb-889d-b4ba5bfeb2cb",
+    "source": "N/A",
+    "duration": 71
+  },
+  {
+    "startTime": 1448,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_urlpattern-polyfill_5_0_3_node_modules_urlpattern-polyfill_index_js.a122d60190b2d1d20710.js",
+    "source": "N/A",
+    "duration": 285
+  },
+  {
+    "startTime": 1458,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_common_errors-framework_dist_static_components_index_js.d6dc12df9af120792804.js",
+    "source": "N/A",
+    "duration": 275
+  },
+  {
+    "startTime": 1468,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/pageview",
+    "source": "N/A",
+    "duration": 298
+  },
+  {
+    "startTime": 1458,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_common_errors-framework_dist_ui_components_custom-elements_js.4800b320f5375e5245b0.js",
+    "source": "N/A",
+    "duration": 310
+  },
+  {
+    "startTime": 1468,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/open",
+    "source": "N/A",
+    "duration": 299.0000000000002
+  },
+  {
+    "startTime": 1458,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_common_errors-framework_dist_ui_components_hz-error-dialog_index_js.108ef7589b945be1eb5c.js",
+    "source": "N/A",
+    "duration": 333.0000000000002
+  },
+  {
+    "startTime": 1459,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/neural-features-ui-firefly-access.b51cd3a19a4b7781b972.js",
+    "source": "N/A",
+    "duration": 332.0000000000002
+  },
+  {
+    "startTime": 1656.0000000000002,
+    "entryType": "resource",
+    "name": "https://sstats.adobe.com/ee/v1/interact?configId=20b030dd-b713-45da-8ff7-0a7027d2da29&requestId=60280ffb-af11-4902-a893-3287d8288bb3",
+    "source": "N/A",
+    "duration": 140.99999999999977
+  },
+  {
+    "startTime": 1768,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/pageview",
+    "source": "N/A",
+    "duration": 201
+  },
+  {
+    "startTime": 1469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_percentage-fill-slider_x-percentage-fill-slider_js.8b1beedf4f2970c2b7cb.js",
+    "source": "N/A",
+    "duration": 513
+  },
+  {
+    "startTime": 1440,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-uiPostStartupBricks.305213ae2067b21c27b0.js",
+    "source": "N/A",
+    "duration": 572
+  },
+  {
+    "startTime": 1459,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_choose_js-common_temp_nod-f56a3b.562acea1d2a3a6c7c485.js",
+    "source": "N/A",
+    "duration": 565
+  },
+  {
+    "startTime": 1460,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_map_js-features_authoriza-4b5b72.6a6d7bbb32946afe158c.js",
+    "source": "N/A",
+    "duration": 556
+  },
+  {
+    "startTime": 1460,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_choose_js-common_temp_nod-bdfe1a.0080f0dc4608f9b936dd.js",
+    "source": "N/A",
+    "duration": 564
+  },
+  {
+    "startTime": 1460,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_neural_neural-features-ui_assets_thumbnails_Embelished_png-features_neural_neural-fe-c4cd68.b920aaf47d4c7e06a85f.js",
+    "source": "N/A",
+    "duration": 568
+  },
+  {
+    "startTime": 1481,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-startup-authoring-index.39709f2e5aacdc8f3c4c.js",
+    "source": "N/A",
+    "duration": 566.0000000000002
+  },
+  {
+    "startTime": 1485,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/en-US.97ff04628b078e59c43f.json",
+    "source": "N/A",
+    "duration": 545.0000000000002
+  },
+  {
+    "startTime": 1986,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-mobile-value-section_x-chart-mobile-value-section_js.891dd36ce5ddd0389558.js",
+    "source": "N/A",
+    "duration": 38
+  },
+  {
+    "startTime": 2040,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_abuse-report_dist_hz-abuse-report_custom-elements_js.3139a7d87baead755047.js",
+    "source": "N/A",
+    "duration": 2.0000000000002274
+  },
+  {
+    "startTime": 2042.0000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_coachmark_sp-coachmark_js.58db8457af45127313c3.js",
+    "source": "N/A",
+    "duration": 1.9999999999997726
+  },
+  {
+    "startTime": 2043.0000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-coachmark.9f39026df8223778e017.js",
+    "source": "N/A",
+    "duration": 0.9999999999997726
+  },
+  {
+    "startTime": 2043.0000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-coachmark-components.b25ec91c3a883edb8e34.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2044,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-doc-conversion-feature-brick.0cd2eebe30df907917c9.js",
+    "source": "N/A",
+    "duration": 2.0000000000002274
+  },
+  {
+    "startTime": 2044,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-editor-my-uploads-feature-brick.cde33ee5d230f78e7c4a.js",
+    "source": "N/A",
+    "duration": 2.0000000000002274
+  },
+  {
+    "startTime": 2050,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_uab-asset-browser_dist_components_x-uab-components_js.0b3e4ca6032cbcd8c332.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2050,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-intent-quiz-ui_dist_integration_components_app-settings-integration_x-intent-quiz--6f6f3a.b7199fd75afb352477cc.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2051,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-intent-quiz-ui_dist_integration_components_intent-quiz-integration_x-intent-quiz-i-950205.f38a556192602035241a.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2051,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-intent-quiz-ui_dist_integration_components_sp-button-loading-spinner_x-sp-button-l-04cc33.1ccd011b8fea8cade966.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2051,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-rich-tooltip-components.e417dbb4910103e564b9.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2051,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-susi-sentry.10bb1b4ffb1db5a68b32.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2056,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-debug-brick.40b99d39d84eaa9a83d2.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2058,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-utility-nav-container-2.86fa8bf4b80ebbbe941b.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 2062,
+    "entryType": "mark",
+    "name": "startup:router-startup:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2062,
+    "entryType": "measure",
+    "name": "startup:router-startup",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2064,
+    "entryType": "mark",
+    "name": "startup:router-startup:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2065,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_utility_nav.44d31cb859bffa8e54a8.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2066,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_add_on_integrations_brick.711719cf0fb94462c3f8.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2066,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-management_add-on-observability_dist_index_js.53de141adcef15e31c72.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2066,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_document-infra_document-persistence-core_dist_document_DocumentUtils_js.425fb5d3b1ddb67c3569.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2067,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_text-to-template_dist_stores_utils_js-platform_ui_components_spectru-b23ef1.75359eb853649a5ec107.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 0,
+    "entryType": "mark",
+    "name": "startup:document-create-from-scratch-custom-size-direct:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 0,
+    "entryType": "mark",
+    "name": "startup:editor-load-direct:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 1471,
+    "entryType": "measure",
+    "name": "startup:intl-store-initialize",
+    "source": "N/A",
+    "duration": 605
+  },
+  {
+    "startTime": 2066,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-integrations_dist_bricks_AddOnIntegrationsBrick_js.4ec1f5dbef16e8cf79e1.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2067,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-aigenerate_js-c8fbed.f15b01030c38c5285d47.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2067,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features-neural-text-to-template-ui.a4a789d83febb6f219b2.js",
+    "source": "N/A",
+    "duration": 22
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_acrobat_shortcuts_ui.37489cc1342ff147fbb6.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_widget_dist_ui_components_hz-iframe-widget_HzIframeWidget_js.19d27f8a5a0b4b15c425.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_home_add_ons_brick.05e6e16902f63ba30c6f.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_simple-row-scroller_x-simple-5d5ec0.d3e191f45804392025e8.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-management_add-ons-panel_dist_analytics_AddOnsPanelAna-0cc0f1.cc3a74d16afbf05aa3b5.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2068,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_add_on_management_host.8b9e60ce1ea1b47b8b91.js",
+    "source": "N/A",
+    "duration": 25
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_lit_context_1_1_0_node_modules_lit_context_development-452213.0e15b9b472150c03d434.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_ffc_add_on_source_brick.7e95e7d7c7410b31e4db.js",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_add_ons_panel_brick.4451d67e5338c253e79f.js",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_add_on_setting_management.24426417b4147be93dfb.js",
+    "source": "N/A",
+    "duration": 9
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_icons-workflow_0_44_0_node_mod-cbbd38.71c2a952eb7555f40b95.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 2069,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_extensibility_add-on-management_add-ons-panel_dist_ui_AddOnsPanelUIBrick_js-4b4f44.66e13b75134a753f323d.js",
+    "source": "N/A",
+    "duration": 44
+  },
+  {
+    "startTime": 2070,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_ias_dtou_manager.0b6dda60efcefe788b52.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 2076,
+    "entryType": "mark",
+    "name": "startup:intl-store-initialize:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2088,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_animation-playback-ui_dist_AnimationPlaybackUIBrick_js.8e7743df3296f2d34196.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 2088,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_sceneline_sceneline-ui-sync_dist_stores_thumbnail-store_factory_js-platform-19380f.451ecaa0c0e9da9503af.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 2088,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_animation-preset-ui_dist_AppliedPresetUIBrick_js-platform_ui_animation-p-090537.d702fafa69ffe099e9e5.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2088,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_audio-video_audio-video-core_dist_config-interface_js-platform_au-6b9cf0.302eddbd348b68b8c860.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2088,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-editorWebpageCommonBricks.76ee4ce69461b85151a3.js",
+    "source": "N/A",
+    "duration": 21
+  },
+  {
+    "startTime": 2121,
+    "entryType": "mark",
+    "name": "startup:load-authoring-worker:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2121,
+    "entryType": "mark",
+    "name": "startup:load-renderer-worker:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2123,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-editor-wasms.e694e811c3bb654e764b.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_comlink_4_3_1_node_modules_comlink_dist_esm_comlink_mjs.81b1675d9f9d776164f7.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_renderer_renderer-types_dist_requests_ecs_GenerateRendition_js.41218d15ecb2beb1b1e4.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_resource_resource-cache-types_dist_ResourceCacheNotificationTypes-6ab838.f4d32ccaf237fdf65cb1.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_utils_worker-utils_dist_frame-scheduler_FrameManager_js.e849bab82614d3b112e3.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_resource_client-bitmap-utils_dist_BitmapMathUtils_js-platform_com-38f199.7061ddb3cd8ce8d7ab22.js",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 2125,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_resource_client-bitmap-utils_dist_bitmap-metadata_exifr_ExifrBitm-7e8246.6cac1f12d3e08a42fe96.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 0,
+    "entryType": "mark",
+    "name": "startup:app-load:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2124,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_common_hz-worker-core_dist_authoring_HzWorkerCommunicationFrontend_js-platf-95dd89.dd61e86b43796307f34a.js",
+    "source": "N/A",
+    "duration": 16
+  },
+  {
+    "startTime": 2125,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-startup-renderer-on-ui.32ce7bf00e6201771521.js",
+    "source": "N/A",
+    "duration": 22.000000000000455
+  },
+  {
+    "startTime": 2125,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_renderer_chimera-renderer_dist_worker_RendererWorker_js-platform_renderer_r-84937e.c63d1a1f2c5150cbbc0a.js",
+    "source": "N/A",
+    "duration": 28
+  },
+  {
+    "startTime": 2125,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_document-infra_ecs_dist_MapOfArrays_js-platform_common_host_brows-ce9477.e3b9c5f25f8b5a39d3b4.js",
+    "source": "N/A",
+    "duration": 38.000000000000455
+  },
+  {
+    "startTime": 2130,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_color-picker_dist_components_color-picker_x-color-picker_js.7e8a5a87b7008d3c3d52.js",
+    "source": "N/A",
+    "duration": 65
+  },
+  {
+    "startTime": 2147.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_choose_js-features_neural-3fa314.ac89dc3b84580cb2e38f.js",
+    "source": "N/A",
+    "duration": 14.999999999999545
+  },
+  {
+    "startTime": 2154,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_percentage-fill-switch_x-percentage-fill-switch_js.4aa39c2eeb3df3589524.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2182,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-tqweb-service-import.24ec0ff4617f04a5fb42.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2184,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_x_mobile_device_checks.a76354cf3c34a4b5b450.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2188,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/quick-actions-wrapper-metadata-chunk.3864c5458f6e07a4c836.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 2197,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/adobe-ans-client-components.94b1b59a28d3a3db240a.js",
+    "source": "N/A",
+    "duration": 15
+  },
+  {
+    "startTime": 2203,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_extensibility_add-on-management_add-on-web-components_dist_ui_components_hz-featured-db1252.ff66587df80110664c63.js",
+    "source": "N/A",
+    "duration": 7
+  },
+  {
+    "startTime": 2203,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_extensibility_add-on-management_add-on-web-components_dist_ui_components_hz-featured-fd5384.85883c464d049b06d6c5.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 2233,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_web-components_dist_components_hz-canvas-accessibility-overla-c4d699.2e1f652e85386e397279.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2233,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_foundation_crop-group-foundation_dist_CropGroupUtils_js.7cdcbe690bbf2ea5ea12.js",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 2233,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_slider_0_44_0_node_modules_spe-9972ef.2534ed81154918685de9.js",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 2233,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_web-components_dist_components_hz-canvas-surface_HzCanvasSurface_js.1e6508ae394f4556e3c1.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-chev-335a03.24746032ab0cf344b40c.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_web-components_dist_components_hz-coachmark-container_index_js.48805e704726d33bdc70.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_filters_filter-spl_bitmap_dist_ui-core_factory_js.f9c7d82548797117055b.js",
+    "source": "N/A",
+    "duration": 7
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_filters_filter-types_dist_NonPersistedECSDefinitions_js-shared_schema-valid-e95313.7cb411a0f99c506eab5d.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_properties-core_dist_authoring_DefaultStyleModel_js-platform_auth-f4ea0c.c7482585c089402b5642.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_neural-features-ui_dist_image-gen_entry-points_neural-image-media-en-5f8b7e.511291783f52297c2c9b.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 2234,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_colors_color-palette_dist_utils_ColorPaletteUtils_js.78526b4e51829b598ee6.js",
+    "source": "N/A",
+    "duration": 26.000000000000455
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_text-effects_dist_authoring_DefaultStyleModel_js-features_text-effects_dist-5fcc5c.8f16ee0c598455cd594f.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-export_dist_utils_export-utils-facade_ExportUtils_js.fa81020fe5bc6b765c42.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_tslib_2_4_0_node_modules_tslib_tslib_es6_js.ff8729d7043b681ba4f6.js",
+    "source": "N/A",
+    "duration": 13
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_crop_dist_ui-core_factory_js.32c9dc8a862e5a2fe667.js",
+    "source": "N/A",
+    "duration": 15
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_filters_filter-core_dist_authoring_FilterUtils_js-platform_authoring_author-ab79d6.71a5094df2ce9b1fe922.js",
+    "source": "N/A",
+    "duration": 28
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_contextual-menu-ui_dist_ui_ContextualMenuUIBrick_js-platform_ui_editor-core-0595ad.f2a48e0e4f022d27a197.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 2235,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_di-sdk_select-and-mask_0_0_2-expose-selection-change-1-824996.b0665548bc07af6ac9ba.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_colors_global-colors_dist_ui-core_GlobalColorsStore_js-features_filters_fil-f3de27.09d99e1eed756d8fe25e.js",
+    "source": "N/A",
+    "duration": 19
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_editor-download-button_x-editor-download-button_ts-features_x-editor--ee4c85.7138b47efae7ee5dd633.js",
+    "source": "N/A",
+    "duration": 24.000000000000455
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_stores_analytics_projects-analytics-store_ProjectsAnalyticsStore_ts.d762518e20e0a0d5a9bd.js",
+    "source": "N/A",
+    "duration": 27
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_decorations_video-decorations_video-decorations-ui_dist_store_factory_js-fe-09fb90.653d42ac0b6f53602375.js",
+    "source": "N/A",
+    "duration": 27
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_virtual-slot_dist_directives_inlineVirtualSlot_js-platform_ui-a5e1f2.9ccc3ecaae89890ae7c8.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 2236,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_neural_neural-features-ui_dist_image-gen_panels_neural-image-ui_js-platform-4cc205.f35a878e6c27933298f4.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_colors_global-colors_dist_ui-core_factory_js-features_svg_svg-normalizer-ui-34d495.15eec82faae6bded910a.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_ccx-web-components_comments-analytics_js-platform_ui_componen-e74810.83a81b1df9f426a9c0d5.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_monetization_premium-button_-b098c3.a826d7b6624c3432152d.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_layout_artistic-grids_dist_artistic-grids-store_factory_js.ed7181b95137d845b591.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 0,
+    "entryType": "measure",
+    "name": "startup:app-load",
+    "source": "N/A",
+    "duration": 2321
+  },
+  {
+    "startTime": 0,
+    "entryType": "mark",
+    "name": "startup:welcome-modal-render:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2076,
+    "entryType": "resource",
+    "name": "https://clio-assets-stage.corp.adobe.com/project-x/text-inspirations/v5/locales/en-US.json",
+    "source": "N/A",
+    "duration": 232
+  },
+  {
+    "startTime": 2076,
+    "entryType": "resource",
+    "name": "https://clio-assets-stage.corp.adobe.com/project-x/text-inspirations/v5/content.json",
+    "source": "N/A",
+    "duration": 237
+  },
+  {
+    "startTime": 2121,
+    "entryType": "measure",
+    "name": "startup:load-renderer-worker",
+    "source": "N/A",
+    "duration": 178
+  },
+  {
+    "startTime": 2131,
+    "entryType": "resource",
+    "name": "https://9212252.fls.doubleclick.net/activityi;src=9212252;type=invmedia;cat=gtag_00_;ord=1;num=8702841986943;npa=1;auiddc=683974237.1726661861;pscdl=noapi;frm=0;gtm=45fe4990v9180772808za200;gcd=13l3l3l2l1l1;dma_cps=syphamo;dma=1;tag_exp=0;epver=2;~oref=https%3A%2F%2Flocalhost.adobe.com%3A8080%2Fnew%3Fwidth%3D2560%26height%3D2560%26unit%3Dpx%26aspectRatioLock%3Dfalse%26tasksGroup%3Ddocument%26taskID%3Dcustom-size%26category%3Dtext%26learn%3Dfor-you?",
+    "source": "N/A",
+    "duration": 191
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_annotations_dist_ui-sync_AnnotationsUINotifications_js-features_doc-structu-bf17d5.7fb494af32e1daf48527.js",
+    "source": "N/A",
+    "duration": 48
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_filters_filter-mask_dist_ui-core_factory_js-features_filters_filter-shape-e-01f8b9.567b4d4bfe52b8388192.js",
+    "source": "N/A",
+    "duration": 49
+  },
+  {
+    "startTime": 2237,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_range_js-feature-a7bdf5.a73fdb316bd92e8f34db.js",
+    "source": "N/A",
+    "duration": 52
+  },
+  {
+    "startTime": 2238,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_renderer_renderer-debug-commands_dist_ui-core_factory_js-platform_ui_canvas-979d8c.6ff8f0d823cae2cf12e9.js",
+    "source": "N/A",
+    "duration": 47
+  },
+  {
+    "startTime": 2254,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_extensibility_add-on-management_add-on-web-components_dist_ui_components_hz-add-ons--588967.48adebd434a51dbda891.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 2260.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_web-components_dist_components_hz-utility-tooltip_index_js.816da504cccaf6252d19.js",
+    "source": "N/A",
+    "duration": 26.999999999999545
+  },
+  {
+    "startTime": 2260.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-add_js.da3554afdb2d200e3f61.js",
+    "source": "N/A",
+    "duration": 26.999999999999545
+  },
+  {
+    "startTime": 2260.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-code_js.423a151982e02d76f2e8.js",
+    "source": "N/A",
+    "duration": 28.999999999999545
+  },
+  {
+    "startTime": 2260.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_card_sp-card_js.0e06b31a7d9e216475b6.js",
+    "source": "N/A",
+    "duration": 28.999999999999545
+  },
+  {
+    "startTime": 2260.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_switch_sp-switch_js.ccc16788f0e00faed45d.js",
+    "source": "N/A",
+    "duration": 28.999999999999545
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_popover_sp-popover_js.44c98174d5998b1e06cb.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_tabs_sp-tab_js-_d5450.024c2b23e8b46dc0fc8c.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_express-components_atoms_callout_sx-callout_js.aca3d39f7caa372ddc94.js",
+    "source": "N/A",
+    "duration": 31.000000000000455
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_tags_sp-tag_js.d71362f7bbdf3e02301f.js",
+    "source": "N/A",
+    "duration": 31.000000000000455
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_tabs_sp-tabs_js-_e5ec0.db7b1934ed859d719ead.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 2261,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_common_errors-framework_dist_ui_index_js.4b370a4fb3a9600ce20e.js",
+    "source": "N/A",
+    "duration": 49
+  },
+  {
+    "startTime": 2262,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-delete_js.7b26b1957ef694b1363f.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 2262,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-plug-in-filled_js.0ffb7df85dfdd1216b5f.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 2262,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-details_js.9aca6e00b5f4d92aaeee.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 2262,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-web-components_dist_components_masonry_x-masonry_js.44736a4a01d6ca9001cf.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 2262,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_keyed_js-features_extensi-8c39e4.e16575e847fb7eb15399.js",
+    "source": "N/A",
+    "duration": 60
+  },
+  {
+    "startTime": 2283,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_percentage-fill-value-color-input_x-percentage-fill-value-c-f3ae73.dde2fe481c86e491b7f6.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 2285,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_neural_neural-features-ui_dist_inpaint_mobile_neural-gen-fill-brush-panel_neural-gen-47d8d5.745efd15c3a17069e7d1.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 2299,
+    "entryType": "mark",
+    "name": "startup:load-renderer-worker:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2299,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-startup-renderer-chimera.4f5462803e0b130fe2e8.js",
+    "source": "N/A",
+    "duration": 25
+  },
+  {
+    "startTime": 2312,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_paywall_dist_hz-paywall-container_js.99fc0e20e0d7cf6eeea7.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 2313,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_paywall_DesktopPaywall_js-pl-635d30.471107082e05bd15e30c.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 2313,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_paywall_factory_js-platform_-7b4dcd.f2b117128fae8ab034ca.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 2313,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-monetization-components.040f28615574eebccdd7.js",
+    "source": "N/A",
+    "duration": 17
+  },
+  {
+    "startTime": 2321,
+    "entryType": "mark",
+    "name": "startup:app-load:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 2323,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/qa-sptheme-spectrum-color-light.8114572d86426702d0ee.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2323,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/qa-sptheme-spectrum-scale-medium.cb840297fb5978606e4e.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2336,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_welcome-modal_x-logged-out-welcome-modal_ts.a3020f22ce673fc6a3fb.js",
+    "source": "N/A",
+    "duration": 7
+  },
+  {
+    "startTime": 2354,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_color-picker_dist_components_brand-libraries-colors_x-brand-libraries-colors_js.f3fa6e1ec5b26367c64b.js",
+    "source": "N/A",
+    "duration": 56
+  },
+  {
+    "startTime": 2413.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_percentage-fill-directions_x-percentage-fill-directions_js.feabf67c8430c6201aa0.js",
+    "source": "N/A",
+    "duration": 1.9999999999995453
+  },
+  {
+    "startTime": 2415,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_neural_neural-features-ui_dist_inpaint_mobile_neural-gen-fill-prompt-panel_neural-ge-c1f7f7.470c83ee2c5a88689867.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 2427,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/chimera.944c24ae57b5e1b4405f.data",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 2441,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_spectrum-web-components_overlay_0_44_0_36c5dmspnjsk3sg3w4cmm6h6-7cc2bd.c6397794b231256b036f.js",
+    "source": "N/A",
+    "duration": 15
+  },
+  {
+    "startTime": 2121,
+    "entryType": "resource",
+    "name": "https://ims-na1-stg1.adobelogin.com/ims/organizations/v6?client_id=projectx_webapp",
+    "source": "N/A",
+    "duration": 360
+  },
+  {
+    "startTime": 2238,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-editorTransitionalBricks.5ada0c0b8d524aba3139.js",
+    "source": "N/A",
+    "duration": 244
+  },
+  {
+    "startTime": 2465,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-3e2415.a432e057321d7330e56f.js",
+    "source": "N/A",
+    "duration": 17
+  },
+  {
+    "startTime": 2465,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-aa3520.b065ad60fb69fb62d902.js",
+    "source": "N/A",
+    "duration": 17
+  },
+  {
+    "startTime": 2465,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-17834e.e7c7524d1b41a5faee8c.js",
+    "source": "N/A",
+    "duration": 17
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-3b7661.543ba37a5d1fd41b52b3.js",
+    "source": "N/A",
+    "duration": 26
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-4c6416.5507f5afb558409878ad.js",
+    "source": "N/A",
+    "duration": 26
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-066690.c47fe444bf9e87d71c19.js",
+    "source": "N/A",
+    "duration": 27
+  },
+  {
+    "startTime": 2190,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/open",
+    "source": "N/A",
+    "duration": 356.00000000000045
+  },
+  {
+    "startTime": 2190,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/pageview",
+    "source": "N/A",
+    "duration": 436
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-d9eacb.3a0b84f50b1af184f00e.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-74be60.408eebcb5c6a6c8eaa3c.js",
+    "source": "N/A",
+    "duration": 69
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-9f78e0.bfe69a75aba9cf729f0a.js",
+    "source": "N/A",
+    "duration": 69
+  },
+  {
+    "startTime": 2466,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-697d14.b5f6b5a68baebbaf5fba.js",
+    "source": "N/A",
+    "duration": 105
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-6c3f24.a8a28308d099a84df052.js",
+    "source": "N/A",
+    "duration": 110
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-70ac4f.95b54e98d8ad858db1d1.js",
+    "source": "N/A",
+    "duration": 113
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-fef439.6b65c8532def676f26e8.js",
+    "source": "N/A",
+    "duration": 113
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-92fa69.331390141fde81f32b3a.js",
+    "source": "N/A",
+    "duration": 126
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-69311a.fe33dd3fe9b383140dd9.js",
+    "source": "N/A",
+    "duration": 126
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-7f54c6.70bc5ad8334af85d05ea.js",
+    "source": "N/A",
+    "duration": 127
+  },
+  {
+    "startTime": 2467,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-12b2f6.00f5ca27d0dc08c84f6e.js",
+    "source": "N/A",
+    "duration": 127
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-df8982.1e9c07b24f07f1dee006.js",
+    "source": "N/A",
+    "duration": 161
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-dbbf98.d94758ccd5784262263c.js",
+    "source": "N/A",
+    "duration": 161
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-d27413.119f45622f63812a43a3.js",
+    "source": "N/A",
+    "duration": 161
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-17741c.050349858cd9381faa02.js",
+    "source": "N/A",
+    "duration": 162
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-df12d7.79e0440c0f2e478405b2.js",
+    "source": "N/A",
+    "duration": 178
+  },
+  {
+    "startTime": 2476,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/bc79c1/00000000000000007735dad9/30/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n9&v=3",
+    "source": "N/A",
+    "duration": 73
+  },
+  {
+    "startTime": 2468,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-31a27c.a0d538f5e3bdd88ecf38.js",
+    "source": "N/A",
+    "duration": 248
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-17c97a.2dada28e523f5cb004ab.js",
+    "source": "N/A",
+    "duration": 247
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-326ec5.4242c7d6b49b64a63eeb.js",
+    "source": "N/A",
+    "duration": 247
+  },
+  {
+    "startTime": 2126,
+    "entryType": "resource",
+    "name": "https://invitations-stage.adobe.io/api/v4/auth/urn%3Aaaid%3Asc%3AVA6C2%3Af5dbce61-a6bd-4a9e-9f29-921a256b0983?cdnAcceleration=true&searchAncestors=true",
+    "source": "N/A",
+    "duration": 684
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-49ff90.e67ba293e49834e7c28e.js",
+    "source": "N/A",
+    "duration": 357
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-790e96.a9070f85ffd661cfbd0e.js",
+    "source": "N/A",
+    "duration": 357
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-35abe8.344505431036cb1919b8.js",
+    "source": "N/A",
+    "duration": 368
+  },
+  {
+    "startTime": 2469,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-bbfb0b.eb0801ed08f08a7e9bc2.js",
+    "source": "N/A",
+    "duration": 368
+  },
+  {
+    "startTime": 2470,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-894b0e.3ea762ff7aa73bdeadfe.js",
+    "source": "N/A",
+    "duration": 367
+  },
+  {
+    "startTime": 2470,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-783f27.4158ecf2a9ee7f3db22e.js",
+    "source": "N/A",
+    "duration": 368
+  },
+  {
+    "startTime": 2470,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobecolor_web-components_1_20_2_node_modules_adobecolor_web-co-11d692.4a14a61b76957072450b.js",
+    "source": "N/A",
+    "duration": 368
+  },
+  {
+    "startTime": 2606,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-acr-feature-brick.1b6eb3809ac594bb03e3.js",
+    "source": "N/A",
+    "duration": 234
+  },
+  {
+    "startTime": 2473,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-advanced-settings_x-chart-advanced-settings-section_js.cc0beb8f21d15d75800e.js",
+    "source": "N/A",
+    "duration": 368
+  },
+  {
+    "startTime": 2599,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-editorNativeMobileOnlyBricks.1c76dd5de999e9b01f69.js",
+    "source": "N/A",
+    "duration": 241
+  },
+  {
+    "startTime": 2606,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-align-and-distribute-brick.6391153ab38e4b01590b.js",
+    "source": "N/A",
+    "duration": 236
+  },
+  {
+    "startTime": 2606,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-your-stuff-panel-integration.32eefe84ed29e506c012.js",
+    "source": "N/A",
+    "duration": 236
+  },
+  {
+    "startTime": 2606,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_animation-panels_AnimationPresetButtonTypes_ts-platform_ui_components-3a5c7c.3db5c641f4dafc6a807f.js",
+    "source": "N/A",
+    "duration": 237
+  },
+  {
+    "startTime": 2606,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_animation-panels_AnimationPresetParameterUtils_ts-platform_ui_compone-987149.fd05098c382c1867acf0.js",
+    "source": "N/A",
+    "duration": 241
+  },
+  {
+    "startTime": 2607,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-chart-color-feature-brick.59e59562894c12d7e3b0.js",
+    "source": "N/A",
+    "duration": 240
+  },
+  {
+    "startTime": 2607,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-chart-advanced-settings-feature-brick.d26ac0cb398b9a9970db.js",
+    "source": "N/A",
+    "duration": 240
+  },
+  {
+    "startTime": 2607,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_lit-labs_virtualizer_2_0_13_node_modules_lit-labs_virt-c58748.e08aba8b8aea3ed49b31.js",
+    "source": "N/A",
+    "duration": 245
+  },
+  {
+    "startTime": 2607,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_table_sp-table-head-c-a543f9.c1a38a1073b169c2b8f2.js",
+    "source": "N/A",
+    "duration": 246
+  },
+  {
+    "startTime": 2608,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-csat.b278b071342634d95793.js",
+    "source": "N/A",
+    "duration": 245
+  },
+  {
+    "startTime": 2608,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-chart-input-table-feature-brick.21918b9189b163a80bd0.js",
+    "source": "N/A",
+    "duration": 245
+  },
+  {
+    "startTime": 2473,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_lit_2_7_4_node_modules_lit_directives_choose_js-common_temp_nod-d17830.6a32195109e63e0b2f25.js",
+    "source": "N/A",
+    "duration": 382
+  },
+  {
+    "startTime": 2608,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-eyedropper.2212c3e87179548649e7.js",
+    "source": "N/A",
+    "duration": 246
+  },
+  {
+    "startTime": 2608,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-editor-fonts-brick.e1e8ab067af9c009063c.js",
+    "source": "N/A",
+    "duration": 249
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-filter-cutout-brick.3a71ee9224c98235171c.js",
+    "source": "N/A",
+    "duration": 246
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_properties-inspector_sections_fill-background-section_FillBackgroundS-1613ad.b895e45693d6f7ba8cc8.js",
+    "source": "N/A",
+    "duration": 247
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-hyper-link-feature-brick.e7c2e0d4f6b62bbce295.js",
+    "source": "N/A",
+    "duration": 247
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-flip-fit-feature-brick.06e01d1b4d97c264b3ec.js",
+    "source": "N/A",
+    "duration": 248
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-mixed-lock-items-feature-brick.9b206e8722b735b48154.js",
+    "source": "N/A",
+    "duration": 250
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-panels.7450f4104aac3242e3ee.js",
+    "source": "N/A",
+    "duration": 249
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-page-basics-feature-brick.40bcb72916bbe0e4fe74.js",
+    "source": "N/A",
+    "duration": 249
+  },
+  {
+    "startTime": 2607,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-applied-preset-brick.17961c3fdf93800c35ae.js",
+    "source": "N/A",
+    "duration": 255
+  },
+  {
+    "startTime": 2609,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_object-properties-bar_assets_messages_ts-src_components_page-resize_x-a2781a.4fe5605ee5c5d90005dc.js",
+    "source": "N/A",
+    "duration": 252
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_components_presentation-modal-window_x--9e55ce.84483d15fc667efa27bf.js",
+    "source": "N/A",
+    "duration": 252
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_components_presenter-notes-text-editor_-1cca72.0355181dc2b60a97a7b9.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_components_present-button_x-present-but-d65cae.380512467f5b77978ce9.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_components_presenter-notes-presence_x-p-5838e4.e6ed905fdcbf7e7320a5.js",
+    "source": "N/A",
+    "duration": 253
+  },
+  {
+    "startTime": 2611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_components_presenter-mode_index_js.04a36fb3b4255b17981d.js",
+    "source": "N/A",
+    "duration": 255
+  },
+  {
+    "startTime": 2611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presentations_presentations-ui_dist_bricks_PresentationConversionUIBrick_js-2f67f6.02cb490b9f989cc04dcf.js",
+    "source": "N/A",
+    "duration": 256
+  },
+  {
+    "startTime": 2611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-presentation-brick.0f2b6c3fce6cfeb856fb.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_foundation_temporal-artboard-foundation_dist_utils_PremiumNodeClassificatio-4b4dc1.8e42abd6ebf8308c862e.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2612,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-table-feature-brick.04ca70ec46bae4433338.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2612,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-voiceover-brick.df980d575aed7836674f.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2612,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-search-feature-brick.a853b4a7b65856913fc7.js",
+    "source": "N/A",
+    "duration": 259
+  },
+  {
+    "startTime": 2306,
+    "entryType": "resource",
+    "name": "https://cctypekit-relstage.adobe.io/v1/cdn/token?locale=en&v=2.3.0&x-request-id=FOUND_FONTS_1726661863064&tqweb_version=2.14.3",
+    "source": "N/A",
+    "duration": 569
+  },
+  {
+    "startTime": 2623,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_contextual-menu-ui_dist_ui_components_custom-elements_js.f6670d1fbb014c3973c0.js",
+    "source": "N/A",
+    "duration": 251
+  },
+  {
+    "startTime": 2625,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presence_client-presence_dist_authoring_ClientPresenceController_js-feature-8b890f.ea897c6da7b64960adc3.js",
+    "source": "N/A",
+    "duration": 248
+  },
+  {
+    "startTime": 2625,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_transitional-features_x-page-navigation_stores_PageNavigationStateStore_ts-platf-027457.b76197bf9643bef886fa.js",
+    "source": "N/A",
+    "duration": 250
+  },
+  {
+    "startTime": 2625,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_presence_presence-ui_dist_components_hz-presence_index_js-platform_common_s-20291b.ef800231069a3ccb948d.js",
+    "source": "N/A",
+    "duration": 253
+  },
+  {
+    "startTime": 2626,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_transition-panels_TransitionPresetParameterUtils_ts-src_components_tr-8b8cbd.a9782e913dbdc51a7a62.js",
+    "source": "N/A",
+    "duration": 251
+  },
+  {
+    "startTime": 2626,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_custom-popover_x-custom-popo-360e1a.11b0183299263a31a291.js",
+    "source": "N/A",
+    "duration": 253
+  },
+  {
+    "startTime": 2626,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-presenter-notes-brick.417ae757c3c6da9f7a15.js",
+    "source": "N/A",
+    "duration": 255
+  },
+  {
+    "startTime": 2626,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-page-transitions-brick.917bcc1b191df26de2fc.js",
+    "source": "N/A",
+    "duration": 257
+  },
+  {
+    "startTime": 2626,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_transitional-features_x-page-navigation_components_custom-elements_ts-common_tem-05dce8.d6f3224cd5203456a806.js",
+    "source": "N/A",
+    "duration": 264
+  },
+  {
+    "startTime": 2628,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-page-navigation-brick.11e4fb198cc95aa5ffd9.js",
+    "source": "N/A",
+    "duration": 255
+  },
+  {
+    "startTime": 2640,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_menu_sp-menu-group_js-dee38a.be82f7fbbdd5288fdf7c.js",
+    "source": "N/A",
+    "duration": 245.00000000000045
+  },
+  {
+    "startTime": 2640,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_grid_sp-grid_js.e4d965579e6fcf48ac67.js",
+    "source": "N/A",
+    "duration": 248
+  },
+  {
+    "startTime": 2640,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_components_thumbnail-row-scroller_hz-inspire-thumbn-e9ba97.e5f52c416f28c5745114.js",
+    "source": "N/A",
+    "duration": 250
+  },
+  {
+    "startTime": 2625,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/vendor-startup-lec.516d79a2739e172a47ce.js",
+    "source": "N/A",
+    "duration": 273
+  },
+  {
+    "startTime": 2640,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_components_thumbnail-vertical-masonry_hz-inspire-th-09e8bb.1937e391321078243b71.js",
+    "source": "N/A",
+    "duration": 253.00000000000045
+  },
+  {
+    "startTime": 2640,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-search_js-pla-3f797a.bcd11563669012592e8e.js",
+    "source": "N/A",
+    "duration": 257.00000000000045
+  },
+  {
+    "startTime": 2641,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_fuse_js_6_6_2_node_modules_fuse_js_dist_fuse_esm_js.41a63eb42aade62b74fa.js",
+    "source": "N/A",
+    "duration": 256.00000000000045
+  },
+  {
+    "startTime": 2641,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_adobe-fonts_analytics_0_5_1_mobx_6_1_7_node_modules_ad-a4d4a4.aeae253d6b1e7abc1921.js",
+    "source": "N/A",
+    "duration": 256.00000000000045
+  },
+  {
+    "startTime": 2642,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_add-asset-card_x-add-asset-card_ts-common_temp_node_modules_pnpm_spec-75da04.0c432846da123410f757.js",
+    "source": "N/A",
+    "duration": 258
+  },
+  {
+    "startTime": 2610,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_tiptap_extension-document_2_0_0-beta_202_fosglmwb3u6jh-3ad400.8ef6abdbcfd8ead051d1.js",
+    "source": "N/A",
+    "duration": 308
+  },
+  {
+    "startTime": 2641,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_components_inspire-ui-collection-asset-view_hz-insp-999848.b558ca670410a2a18aaa.js",
+    "source": "N/A",
+    "duration": 260.00000000000045
+  },
+  {
+    "startTime": 2641,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_adobe-fonts_analytics_0_5_1_mobx_6_1_7_node_modules_ad-4fa14e.82ea131e7a7202772a76.js",
+    "source": "N/A",
+    "duration": 260.00000000000045
+  },
+  {
+    "startTime": 2641,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_abstract_RootUICollectionConnectedElement_js.36470ac01d425c7d082e.js",
+    "source": "N/A",
+    "duration": 260.00000000000045
+  },
+  {
+    "startTime": 2642,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_brand-migration-banner_x-brand-migration-banner_ts.498e1517ca4350c2949a.js",
+    "source": "N/A",
+    "duration": 262
+  },
+  {
+    "startTime": 2642,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_brand-setup_x-brand-setup_ts.15a2736d04349495da03.js",
+    "source": "N/A",
+    "duration": 264
+  },
+  {
+    "startTime": 2642,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_inspire-ui-core_dist_components_search-filters-popover_hz-inspire-search-aeb5ce.d5abb99f673464ff1c2b.js",
+    "source": "N/A",
+    "duration": 265
+  },
+  {
+    "startTime": 2642,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_library-color-picker_x-library-color-picker_ts-src_components_library-b30730.0cebc21e68e66985e95b.js",
+    "source": "N/A",
+    "duration": 267.00000000000045
+  },
+  {
+    "startTime": 2643.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_add-asset-dialog_AddAssetDialog_ts-common_temp_node_modules_pnpm_open-035a8b.2df3d462830feb0b2a91.js",
+    "source": "N/A",
+    "duration": 263.99999999999955
+  },
+  {
+    "startTime": 2643.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_common_errors-framework_dist_ui_components_hz-error-dialog_index_js.06ed2ebfa5e15ded6deb.js",
+    "source": "N/A",
+    "duration": 264.99999999999955
+  },
+  {
+    "startTime": 2643.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_tabs_sp-tab_js-platfo-a66ed2.5b797405856826652d2b.js",
+    "source": "N/A",
+    "duration": 266
+  },
+  {
+    "startTime": 2643.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_canvas-input_dist_canvas-input_js-platform_ui_components_web-components_-286ec5.5dd925f9f6bccfe7f9f4.js",
+    "source": "N/A",
+    "duration": 268.99999999999955
+  },
+  {
+    "startTime": 2643.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_web-components_dist_components_hz-reconnect-dialog_index_js-p-b65972.0beb734ce5579f9fe4c6.js",
+    "source": "N/A",
+    "duration": 270.99999999999955
+  },
+  {
+    "startTime": 2644,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_assets_icons_layers_index_ts-platform_authoring_lock_dist_ui-sync_LockActionMess-670f68.ce96550ff75f5501bb30.js",
+    "source": "N/A",
+    "duration": 267
+  },
+  {
+    "startTime": 2644,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_library-panel_x-library-panel_ts-platform_ui_inspire-ui-core_dist_com-9edd90.61cbd0df67814e6f6b7b.js",
+    "source": "N/A",
+    "duration": 269.00000000000045
+  },
+  {
+    "startTime": 2644,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_unified-search_search-panel_SearchPanel_ts-platform_ui_components_x-i-5a8b18.f34bf16213bee7bd571b.js",
+    "source": "N/A",
+    "duration": 270
+  },
+  {
+    "startTime": 2644,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_file-picker_views_error-state_ErrorDialog_ts-common_temp_node_modules-536235.19e8781534fa1a1c216e.js",
+    "source": "N/A",
+    "duration": 271
+  },
+  {
+    "startTime": 2644,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_action-bar_replace-popover_x-replace-popover_ts.d9a5ce9f3b57792f7785.js",
+    "source": "N/A",
+    "duration": 275
+  },
+  {
+    "startTime": 2645,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_template-remix_dist_ui-sync_TemplateRemixNotification_js-platform-22d5f6.01c7091ef10b4001c964.js",
+    "source": "N/A",
+    "duration": 274
+  },
+  {
+    "startTime": 2645,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-startup-ui-editor.f8639732cc9b72f303ca.js",
+    "source": "N/A",
+    "duration": 274
+  },
+  {
+    "startTime": 2646,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-artboard_js.a23abbe2d061d2c81fca.js",
+    "source": "N/A",
+    "duration": 288
+  },
+  {
+    "startTime": 2646,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-cut_js.f969e2086f1ab9c607cf.js",
+    "source": "N/A",
+    "duration": 291.00000000000045
+  },
+  {
+    "startTime": 2646,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-copy-as-bitmap_index_js.380828314f813a7b53fb.js",
+    "source": "N/A",
+    "duration": 370
+  },
+  {
+    "startTime": 2646,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-ps_index_js.0a7a272e94b4280f8c0a.js",
+    "source": "N/A",
+    "duration": 371
+  },
+  {
+    "startTime": 2647.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-open-in_js.9fd2808128bc0fa3f67a.js",
+    "source": "N/A",
+    "duration": 371.99999999999955
+  },
+  {
+    "startTime": 2647.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-refresh_js.d1959ba57f6472f6247b.js",
+    "source": "N/A",
+    "duration": 371.99999999999955
+  },
+  {
+    "startTime": 2647.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-ai_index_js.13e738251baed6705705.js",
+    "source": "N/A",
+    "duration": 371.99999999999955
+  },
+  {
+    "startTime": 2648,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-unlink_js.4be58f58e7027a152bfe.js",
+    "source": "N/A",
+    "duration": 372
+  },
+  {
+    "startTime": 2648,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_compiled-icons_icons-workflow_base_sp-icon-export_js.e120c20350b5890d6fdb.js",
+    "source": "N/A",
+    "duration": 374.00000000000045
+  },
+  {
+    "startTime": 2647.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-xd_index_js.153690add5c1d5e4ae9d.js",
+    "source": "N/A",
+    "duration": 377.99999999999955
+  },
+  {
+    "startTime": 2651.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_table-ui_dist_components_table-fill-border-section_x-table-fill-border-section_js.09ee32cc037fd44ba3bc.js",
+    "source": "N/A",
+    "duration": 375.99999999999955
+  },
+  {
+    "startTime": 2660,
+    "entryType": "resource",
+    "name": "https://api2.branch.io/v1/pageview",
+    "source": "N/A",
+    "duration": 381
+  },
+  {
+    "startTime": 2842,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_authoring_linked-assets_linked-assets_dist_authoring_utils_LinkedAssetUtils_js.61f3ca313b0042f350a4.js",
+    "source": "N/A",
+    "duration": 198
+  },
+  {
+    "startTime": 2842,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-editorEarlyBricks.c7690256fa6d43e57390.js",
+    "source": "N/A",
+    "duration": 199
+  },
+  {
+    "startTime": 2846,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-type-suggestions-row-scroller_x-chart-type-suggestion-697bc0.bbf122d292174df987a9.js",
+    "source": "N/A",
+    "duration": 199
+  },
+  {
+    "startTime": 2865,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_neural_neural-features-ui_dist_inpaint_mobile_neural-gen-fill-int-remove-panel_neura-ef7e0b.325d221c8eb739863d4b.js",
+    "source": "N/A",
+    "duration": 181.00000000000045
+  },
+  {
+    "startTime": 3052,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_table-ui_dist_components_table-fill-border-section_x-table-border-section_js.868560b0dd7e6b20728e.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 3057,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-type-thumbnail-button_x-chart-type-thumbnail-button_js.d1a3ce517148567d6f88.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 3058.0000000000005,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_neural_neural-features-ui_dist_inpaint_mobile_neural-gen-fill-int-insert-panel_neura-5f2b91.abb64edcb48cb7ea0a02.js",
+    "source": "N/A",
+    "duration": 8.999999999999545
+  },
+  {
+    "startTime": 3059,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_table-ui_dist_components_table-fill-border-section_x-table-fill-section_js.6be8f5cb94a95bc7eb43.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 3061,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-type-suggestions-multi-panel_x-chart-type-suggestions-0ee1f0.47da52591c9925cc551b.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 3071,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_table-ui_dist_components_table-mobile-color-subpanel_x-table-mobile-color-subpanel_js.5fecb1892c26141907ce.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 3075,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-type-suggestions-category-panel_x-chart-type-suggesti-d0c6ea.9f0f05f111fcb2bd76eb.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 3075,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_table-ui_dist_components_table-mobile-specific-actions_x-table-mobile-specific-actions_js.4734e3110f43221c2f5a.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 2645,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_editor_Editor_ts-src_components_editor_startup-dependencies_ts-common-82edb2.a75c29ce28de5f6162b5.js",
+    "source": "N/A",
+    "duration": 435
+  },
+  {
+    "startTime": 2430,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/chimera.a34181ddb82694c3e7e6.wasm",
+    "source": "N/A",
+    "duration": 664
+  },
+  {
+    "startTime": 2648,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-vector-mask_index_js-_04f50.53f23ac3965abd5aedf5.js",
+    "source": "N/A",
+    "duration": 446
+  },
+  {
+    "startTime": 2648,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-locked-swappable_index_js.acb4b4fce7d5efd39e82.js",
+    "source": "N/A",
+    "duration": 448
+  },
+  {
+    "startTime": 2811,
+    "entryType": "resource",
+    "name": "https://cdn-sharing-stage.adobecc.com/content/storage/id/urn:aaid:sc:VA6C2:f5dbce61-a6bd-4a9e-9f29-921a256b0983",
+    "source": "N/A",
+    "duration": 375
+  },
+  {
+    "startTime": 2976,
+    "entryType": "resource",
+    "name": "https://faster-staging.typekit.net/try/library/full/library-v2.3.0.json",
+    "source": "N/A",
+    "duration": 466
+  },
+  {
+    "startTime": 3078,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_percentage-fill-color-input_x-percentage-fill-color-input_js.772b87a674b7c00f1e66.js",
+    "source": "N/A",
+    "duration": 9
+  },
+  {
+    "startTime": 3095,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/welcome-modal-general.cae98335982b81e28ef1.webp",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 3482,
+    "entryType": "mark",
+    "name": "EditorLoad-connectedCallback-start",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3482,
+    "entryType": "measure",
+    "name": "EditorLoad-connectedCallback-duration",
+    "source": "N/A",
+    "duration": 6
+  },
+  {
+    "startTime": 3488,
+    "entryType": "mark",
+    "name": "EditorLoad-connectedCallback-end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3504,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hz-bifrost-wam-client.de018c31d432bfda50db.js",
+    "source": "N/A",
+    "duration": 38.000000000000455
+  },
+  {
+    "startTime": 3541,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-editor-comments-brick.d429ac064701e297c030.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 3544,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_editor-header-bar_x-editor-share-button_ts.7f478ee61b72fa732240.js",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 3748,
+    "entryType": "mark",
+    "name": "startup:authoring:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3749,
+    "entryType": "mark",
+    "name": "startup:renderer:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3749,
+    "entryType": "mark",
+    "name": "startup:audio-renderer:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3751,
+    "entryType": "mark",
+    "name": "startup:load-renderer-worker:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3760,
+    "entryType": "mark",
+    "name": "startup:load-audio-renderer-worker:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3760,
+    "entryType": "measure",
+    "name": "startup:load-audio-renderer-worker",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 3768,
+    "entryType": "mark",
+    "name": "startup:load-audio-renderer-worker:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 0,
+    "entryType": "measure",
+    "name": "startup:welcome-modal-render",
+    "source": "N/A",
+    "duration": 4199
+  },
+  {
+    "startTime": 3649,
+    "entryType": "resource",
+    "name": "https://accounts.google.com/gsi/client",
+    "source": "N/A",
+    "duration": 322
+  },
+  {
+    "startTime": 4199,
+    "entryType": "mark",
+    "name": "startup:welcome-modal-render:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 4305,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-advanced-settings_progress-chart-advanced-settings_x--53d23c.023d8cbbf98dd7828598.js",
+    "source": "N/A",
+    "duration": 7
+  },
+  {
+    "startTime": 3749,
+    "entryType": "measure",
+    "name": "startup:audio-renderer",
+    "source": "N/A",
+    "duration": 732
+  },
+  {
+    "startTime": 4481,
+    "entryType": "mark",
+    "name": "startup:audio-renderer:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 4487,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-advanced-settings_pie-chart-advanced-settings_x-pie-c-d89f54.bdd6dfa54106fcacd639.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 5784,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-advanced-settings_line-chart-advanced-settings_x-line-d83cfe.95dc1d05c03106983535.js",
+    "source": "N/A",
+    "duration": 2.0000000000009095
+  },
+  {
+    "startTime": 5800,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-input-table_x-chart-input-table-section_js.9b61bc8f333ede468f54.js",
+    "source": "N/A",
+    "duration": 58.00000000000091
+  },
+  {
+    "startTime": 5874.000000000001,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-style-section-mobile_x-chart-style-section-mobile_js.8f6c9eb18aa17e644c2c.js",
+    "source": "N/A",
+    "duration": 4.9999999999990905
+  },
+  {
+    "startTime": 3749,
+    "entryType": "measure",
+    "name": "startup:renderer",
+    "source": "N/A",
+    "duration": 2256
+  },
+  {
+    "startTime": 6005,
+    "entryType": "mark",
+    "name": "startup:renderer:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 6065,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-colors-section-mobile_x-chart-colors-section-mobile_js.f84f9667ec6a9029f11a.js",
+    "source": "N/A",
+    "duration": 3.0000000000009095
+  },
+  {
+    "startTime": 6080,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-advanced-settings_bar-chart-advanced-settings_x-bar-c-d0355f.cba9cea16356e18bca70.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 6091,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-label-color-mobile_x-chart-label-color-mobile_js.b8e0160b2cb1eadbbabf.js",
+    "source": "N/A",
+    "duration": 9.00000000000091
+  },
+  {
+    "startTime": 6105,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_chart-ui_dist_components_chart-mobile-color-subpanel_x-chart-mobile-color-subpanel_js.8472e41d7bc308301813.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 6190,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/async-api.76a715b589237d497ae3.js",
+    "source": "N/A",
+    "duration": 3.0000000000009095
+  },
+  {
+    "startTime": 6192,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/session-manager.29c9972595bf969e1b59.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 6193.000000000001,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/lazy-feature-loader.64241ac2ad473a2491f0.js",
+    "source": "N/A",
+    "duration": 1.9999999999990905
+  },
+  {
+    "startTime": 6201.000000000001,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/project-x-beta-favicon.7a85d2313c216af3b57f.png",
+    "source": "N/A",
+    "duration": 0.9999999999990905
+  },
+  {
+    "startTime": 6217.000000000001,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_newrelic_browser-agent_1_252_1_node_modules_newrelic_b-a7a06e.71d07059e2c8a70aa0e7.js",
+    "source": "N/A",
+    "duration": 4.9999999999990905
+  },
+  {
+    "startTime": 6218,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/jserrors-aggregate.17aa8465b5c2547c82b4.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 6219,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/page_action-aggregate.1e68b7787c2d00a88529.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 6220,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/metrics-aggregate.60ae332f7a6fc99cf4ac.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 6229,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_newrelic_browser-agent_1_252_1_node_modules_newrelic_b-af7510.904a6801562857d59414.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 6230,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/page_view_event-aggregate.b7a9d28f942f314f87f9.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 6196,
+    "entryType": "resource",
+    "name": "https://accounts.google.com/gsi/style",
+    "source": "N/A",
+    "duration": 71
+  },
+  {
+    "startTime": 6200,
+    "entryType": "resource",
+    "name": "https://accounts.google.com/gsi/status?client_id=659897251118-9o0pgs1pv4scgogo291gj0h3d52eb7oq.apps.googleusercontent.com&as=4K%2BHchUOLfDCLFNjpiuH%2BQ&has_opted_out_fedcm=false",
+    "source": "N/A",
+    "duration": 65.00000000000091
+  },
+  {
+    "startTime": 6293,
+    "entryType": "resource",
+    "name": "https://accounts.google.com/gsi/iframe/select?client_id=659897251118-9o0pgs1pv4scgogo291gj0h3d52eb7oq.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&nonce=dba57933-789b-4e56-af34-e094ec434add&as=4K%2BHchUOLfDCLFNjpiuH%2BQ&is_itp=true&channel_id=b76c686f483a5ba43e88a30f49079450b9f36773a60e563a9377511ecfb14f69&origin=https%3A%2F%2Flocalhost.adobe.com%3A8080",
+    "source": "N/A",
+    "duration": 116
+  },
+  {
+    "startTime": 9668.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_authoring_document-infra_schema-provider_dist_authoring_worker_startup_js.49f14475a575992fe134.js",
+    "source": "N/A",
+    "duration": 45
+  },
+  {
+    "startTime": 9689,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_shape-repository-worker_dist_authoring_startup_js.51c343c3846c51f6e863.js",
+    "source": "N/A",
+    "duration": 67
+  },
+  {
+    "startTime": 3748,
+    "entryType": "measure",
+    "name": "startup:authoring",
+    "source": "N/A",
+    "duration": 7859
+  },
+  {
+    "startTime": 11607,
+    "entryType": "mark",
+    "name": "startup:authoring:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3106.999755859375,
+    "entryType": "mark",
+    "name": "startup:load-text-module:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3106.999755859375,
+    "entryType": "measure",
+    "name": "startup:load-text-module",
+    "source": "N/A",
+    "duration": 7037
+  },
+  {
+    "startTime": 3107.999755859375,
+    "entryType": "mark",
+    "name": "startup:load-pathkit-module:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3107.999755859375,
+    "entryType": "measure",
+    "name": "startup:load-pathkit-module",
+    "source": "N/A",
+    "duration": 6628
+  },
+  {
+    "startTime": 3782.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-initialize-coediting:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 3782.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-initialize-coediting",
+    "source": "N/A",
+    "duration": 5831
+  },
+  {
+    "startTime": 9611.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-initializer:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9611.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-fonts-initializer",
+    "source": "N/A",
+    "duration": 95
+  },
+  {
+    "startTime": 9613.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-initialize-coediting-create-service:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9613.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-initialize-coediting-create-service:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9613.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-initialize-coediting-create-service",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9613.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-initialize-coediting:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9616.999755859375,
+    "entryType": "mark",
+    "name": "brick-manager-construction:61d010b9-dfcc-49c8-a8b7-060e7ffc1ff4:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9616.999755859375,
+    "entryType": "mark",
+    "name": "brick-manager-construction:61d010b9-dfcc-49c8-a8b7-060e7ffc1ff4:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9616.999755859375,
+    "entryType": "measure",
+    "name": "brick-manager-construction:61d010b9-dfcc-49c8-a8b7-060e7ffc1ff4",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9697.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-ready:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9697.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-fonts-ready",
+    "source": "N/A",
+    "duration": 1916
+  },
+  {
+    "startTime": 9701.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-meta-ready:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9701.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-fonts-meta-ready",
+    "source": "N/A",
+    "duration": 1912
+  },
+  {
+    "startTime": 9704.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-auth-ready:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9704.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-fonts-auth-ready",
+    "source": "N/A",
+    "duration": 1226
+  },
+  {
+    "startTime": 9706.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-initializer:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 9735.999755859375,
+    "entryType": "mark",
+    "name": "startup:load-pathkit-module:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 10143.999755859375,
+    "entryType": "mark",
+    "name": "startup:load-text-module:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 10930.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-auth-ready:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11106,
+    "entryType": "resource",
+    "name": "https://hz-telemetry-dev.adobe.io/web/v1/metrics",
+    "source": "N/A",
+    "duration": 941
+  },
+  {
+    "startTime": 11613.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-meta-ready:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11613.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-ready:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 0,
+    "entryType": "measure",
+    "name": "startup:editor-load-direct",
+    "source": "N/A",
+    "duration": 12397
+  },
+  {
+    "startTime": 0,
+    "entryType": "measure",
+    "name": "startup:document-create-from-scratch-custom-size-direct",
+    "source": "N/A",
+    "duration": 12397
+  },
+  {
+    "startTime": 11862.999755859375,
+    "entryType": "mark",
+    "name": "startup:document-open-model-load:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11862.999755859375,
+    "entryType": "measure",
+    "name": "startup:document-open-model-load",
+    "source": "N/A",
+    "duration": 34
+  },
+  {
+    "startTime": 11881.999755859375,
+    "entryType": "mark",
+    "name": "startup:document-open-validation:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11881.999755859375,
+    "entryType": "measure",
+    "name": "startup:document-open-validation",
+    "source": "N/A",
+    "duration": 14
+  },
+  {
+    "startTime": 11895.999755859375,
+    "entryType": "mark",
+    "name": "startup:document-open-validation:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11896.999755859375,
+    "entryType": "mark",
+    "name": "startup:document-open-model-load:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11896.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-prepare-ready:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 11896.999755859375,
+    "entryType": "measure",
+    "name": "startup:authoring-fonts-prepare-ready",
+    "source": "N/A",
+    "duration": 4
+  },
+  {
+    "startTime": 11900.999755859375,
+    "entryType": "mark",
+    "name": "startup:authoring-fonts-prepare-ready:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 12375,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-share-sheet-dialog-brick.d5cc026a32fd2b09cd4c.js",
+    "source": "N/A",
+    "duration": 135
+  },
+  {
+    "startTime": 12382,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-lock-settings-feature-brick.e11b882b27dff318b766.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 12383,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-post-startup-ui-properties-inspector.fe33a242d464362795cb.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 12383,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_editor_deferrable-dependencies_ts.6cf3bdae8ff0aa5141bd.js",
+    "source": "N/A",
+    "duration": 5
+  },
+  {
+    "startTime": 12385,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_editor_deferrable-dependencies-non-embed_ts.334dad7c0a35fb97283d.js",
+    "source": "N/A",
+    "duration": 9
+  },
+  {
+    "startTime": 12393,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/2dda0a/00000000000000007735dad4/30/l?primer=f592e0a4b9356877842506ce344308576437e4f677d7c9b78ca2162e6cad991a&fvd=n8&v=3",
+    "source": "N/A",
+    "duration": 71
+  },
+  {
+    "startTime": 12397,
+    "entryType": "mark",
+    "name": "startup:editor-load-direct:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 12397,
+    "entryType": "mark",
+    "name": "startup:document-create-from-scratch-custom-size-direct:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 12421,
+    "entryType": "mark",
+    "name": "component-loader:load:ShareSheet:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 12422,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/remoteEntry.js",
+    "source": "N/A",
+    "duration": 160
+  },
+  {
+    "startTime": 12421,
+    "entryType": "measure",
+    "name": "component-loader:load:ShareSheet:eval",
+    "source": "N/A",
+    "duration": 193
+  },
+  {
+    "startTime": 12614,
+    "entryType": "mark",
+    "name": "component-loader:load:ShareSheet:eval",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 12416,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-editorFeatureBricks.27479aa4cbf75b4e06aa.js",
+    "source": "N/A",
+    "duration": 260
+  },
+  {
+    "startTime": 12582,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_transitional-features_x-lock-settings_components_locked-section_x-locked-section_ts.5e45ff8b1980a3b6cecf.js",
+    "source": "N/A",
+    "duration": 83.00000000000182
+  },
+  {
+    "startTime": 12585,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_global-themes_dist_hz-global-themes-panel_js.f09c32da851c0b18d017.js",
+    "source": "N/A",
+    "duration": 82
+  },
+  {
+    "startTime": 12586,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_app-page-content-header_x-app-page-content-header_ts.1e97f2f994ccc0b1b749.js",
+    "source": "N/A",
+    "duration": 81
+  },
+  {
+    "startTime": 12587,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_view-models_libraries_copy_LibrariesCopyProp_ts-src_view-models_libraries_move_L-7ebdbf.5ef7d899e01844b2055e.js",
+    "source": "N/A",
+    "duration": 80
+  },
+  {
+    "startTime": 12588.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_x-brands_brands-card_x-brands-card_ts.051adec3e531b1c31092.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 12589,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_spectrum_dist_spectrum-components_atoms_tags_sp-tag_js.fc05327f1b4c5af2ee14.js",
+    "source": "N/A",
+    "duration": 81
+  },
+  {
+    "startTime": 12589,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_x-brands_brands-manager_x-brands-manager_ts.7586bfb712fffe71a73a.js",
+    "source": "N/A",
+    "duration": 105
+  },
+  {
+    "startTime": 12590,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-post-startup-ui-editor-brands-panel.7f08c6909adfc3c49b5b.js",
+    "source": "N/A",
+    "duration": 81.00000000000182
+  },
+  {
+    "startTime": 12590,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-post-startup-ui-replace-panel-coachmark.75b52243686b46c0ca93.js",
+    "source": "N/A",
+    "duration": 81.00000000000182
+  },
+  {
+    "startTime": 12591.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_explore-stock-asset-dialog_x-explore-stock-multi-asset-dialog_ts.6fe41660ea34d8d1f75e.js",
+    "source": "N/A",
+    "duration": 82.99999999999818
+  },
+  {
+    "startTime": 12592,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_explore_x-inspire-starting-point-controller_ts.9ed05c9d181771b2417a.js",
+    "source": "N/A",
+    "duration": 82
+  },
+  {
+    "startTime": 12592,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_clio-inspirations-module_x-clio-prompt-card_ts.d740af4b6ec1a75e1441.js",
+    "source": "N/A",
+    "duration": 84
+  },
+  {
+    "startTime": 12593,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/hzx-post-startup-ui-search-panel.9e19818b11d1ee528816.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 12593,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_search_x-search_ts.be87c49287c3f9bb2a5b.js",
+    "source": "N/A",
+    "duration": 88.00000000000182
+  },
+  {
+    "startTime": 12594,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-redo_js-platf-c0bad8.a3c049d01c5287af4ab9.js",
+    "source": "N/A",
+    "duration": 86
+  },
+  {
+    "startTime": 12595,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-platform_ui_components_x-web-components_dist_components_editor-header-bar_x-editor-h-fd86e1.1029a3b78a5e882bff62.js",
+    "source": "N/A",
+    "duration": 83
+  },
+  {
+    "startTime": 12595,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_print_print-ui_dist_src_components_print-header-button_x-print-header-butto-221930.c7b0f497014e8606c8ed.js",
+    "source": "N/A",
+    "duration": 111
+  },
+  {
+    "startTime": 12596,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_edu_classroom-manager_dist_components_assignments-in-editor_editor-assign-b-9d508c.6a3c19ab0467c2ff877c.js",
+    "source": "N/A",
+    "duration": 87
+  },
+  {
+    "startTime": 12596,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_editor-header-bar_events_ts-src_components_export-popover-content_Exp-7242a9.5e18332f69dbc6080adf.js",
+    "source": "N/A",
+    "duration": 90
+  },
+  {
+    "startTime": 12597,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_edu_components_edu-turn-in-button-container_x-edu-turn-in-button-cont-98473f.0518670be2cf9914abcb.js",
+    "source": "N/A",
+    "duration": 89
+  },
+  {
+    "startTime": 12597,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-src_components_editor-header-bar_EditorHeaderBarContainer_ts-src_components_editor-h-3fbd3e.5092e612eaccb91336e3.js",
+    "source": "N/A",
+    "duration": 90
+  },
+  {
+    "startTime": 12597,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-editor-header-components.eb1010b663fda2b1fde0.js",
+    "source": "N/A",
+    "duration": 96
+  },
+  {
+    "startTime": 12611,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/px-share-sheet-dialog-wrapper.7bc53cea81ec3e9cb8b8.js",
+    "source": "N/A",
+    "duration": 79
+  },
+  {
+    "startTime": 12615,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/7902.js",
+    "source": "N/A",
+    "duration": 74
+  },
+  {
+    "startTime": 12616,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/4529.js",
+    "source": "N/A",
+    "duration": 81.00000000000182
+  },
+  {
+    "startTime": 12617,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/386.js",
+    "source": "N/A",
+    "duration": 79
+  },
+  {
+    "startTime": 12617,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/3878.js",
+    "source": "N/A",
+    "duration": 92
+  },
+  {
+    "startTime": 0,
+    "entryType": "mark",
+    "name": "startup:header-bar-load-direct:begin",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 0,
+    "entryType": "measure",
+    "name": "startup:header-bar-load-direct",
+    "source": "N/A",
+    "duration": 13213
+  },
+  {
+    "startTime": 11525,
+    "entryType": "resource",
+    "name": "https://hz-telemetry-dev.adobe.io/v1/traces",
+    "source": "N/A",
+    "duration": 1346
+  },
+  {
+    "startTime": 12584,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_properties-inspector_x-properties-inspector_ts-features_neural_neural-features-c5be86.465305bd215b41c2b904.js",
+    "source": "N/A",
+    "duration": 220
+  },
+  {
+    "startTime": 12617,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/7280.js",
+    "source": "N/A",
+    "duration": 104
+  },
+  {
+    "startTime": 12826,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_eyedropper_ui_dist_components_eye-dropper_x-mobile-synthetic-eyedropper_js.8204745b7e8f8f8bdcaa.js",
+    "source": "N/A",
+    "duration": 7
+  },
+  {
+    "startTime": 12829,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-product-tour.9b176946a93cf80aedea.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 12838.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-ungroup_js.2d6247a7f19f5c283552.js",
+    "source": "N/A",
+    "duration": 1.999999999998181
+  },
+  {
+    "startTime": 12839,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_icons_dist_hz-icon-vector-mask_index_js-_04f51.7b5acd77e9e5cd1efa0c.js",
+    "source": "N/A",
+    "duration": 56
+  },
+  {
+    "startTime": 12843,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-susi-feature.5552f435ed7e5a1b1927.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 12855,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_presentations_presentations-ui_dist_components_conversion_convert-to-presentation-mo-c44b68.07bc50da13cee4ee84c6.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 12860,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-panel-feature.b4bcbb47fd40ad2877c5.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 12864,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_button_sp-clear-button_js.6719e28fa0022246d163.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 12864,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_spectrum_dist_spectrum-components_atoms_tags_sp-tags_js.2c9298d31bcfb268e96a.js",
+    "source": "N/A",
+    "duration": 3
+  },
+  {
+    "startTime": 12865,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_components_x-icons_dist_src_compiled-icons_elements_x-icon-aisparkles_js.bf195486000a4fd689a9.js",
+    "source": "N/A",
+    "duration": 1
+  },
+  {
+    "startTime": 12869,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_x_template_legal_ack_feature.78a2aa78fbee44cf0f0a.js",
+    "source": "N/A",
+    "duration": 2
+  },
+  {
+    "startTime": 12879,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobe-fonts_analytics_0_5_1_mobx_6_1_7_node_modules_adobe-fonts-27fffd.0414cf07bdcdf9fdf0ab.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 12880,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-action-bar_index_js-_36a00.7a61ac11598578448c48.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 12881,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-alignment_index_js.6d77b6ef024c870bc9d0.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 12882,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-conversion_index_js.2cf397f5fb49e277f81d.js",
+    "source": "N/A",
+    "duration": 10
+  },
+  {
+    "startTime": 12883,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-defaults_index_js.2415cbcbb468b2358623.js",
+    "source": "N/A",
+    "duration": 9
+  },
+  {
+    "startTime": 12884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-input_index_js.c82903966a30abad4447.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 12884,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/common_temp_node_modules_pnpm_adobe-fonts_analytics_0_5_1_mobx_6_1_7_node_modules_adobe-fonts-fc79fe.e38af45ba627f7873155.js",
+    "source": "N/A",
+    "duration": 26
+  },
+  {
+    "startTime": 12885,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-authored-number_index_js.3d3298cc64783e8da97d.js",
+    "source": "N/A",
+    "duration": 15
+  },
+  {
+    "startTime": 12886.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-line-spacing_index_js.c806f6315ac9a9090962.js",
+    "source": "N/A",
+    "duration": 19.99999999999818
+  },
+  {
+    "startTime": 12886.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-letter-spacing_index_js.a7db05623d89a1e053ad.js",
+    "source": "N/A",
+    "duration": 19.99999999999818
+  },
+  {
+    "startTime": 12887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-list-type_index_js.ab7445bf6918c9783bb1.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 12887,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-list-type-button-popover_index_js.12f409f6e28d15d193e0.js",
+    "source": "N/A",
+    "duration": 17
+  },
+  {
+    "startTime": 12888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-bold-text-button_index_js.45cb2c786618e40db022.js",
+    "source": "N/A",
+    "duration": 18
+  },
+  {
+    "startTime": 12888,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-text-size_index_js.f823acd3afb2684f7f07.js",
+    "source": "N/A",
+    "duration": 20
+  },
+  {
+    "startTime": 12889.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-italic-text-button_index_js.cd537bcd27f6d7ea8beb.js",
+    "source": "N/A",
+    "duration": 18.99999999999818
+  },
+  {
+    "startTime": 12889.000000000002,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-magic-text-button_index_js.99b8600f186cfb2fa14a.js",
+    "source": "N/A",
+    "duration": 18.99999999999818
+  },
+  {
+    "startTime": 12890,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/platform_ui_text-ui_dist_components_hz-threaded-text-flow_index_js.5eee135b757a6d78afb0.js",
+    "source": "N/A",
+    "duration": 19
+  },
+  {
+    "startTime": 12891,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_print_ui_brick.ce65d25168383c931ec5.js",
+    "source": "N/A",
+    "duration": 18
+  },
+  {
+    "startTime": 12898,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-app-onDemand_hz_x_layer_stack.feb5551d90587a3243b0.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 12899,
+    "entryType": "resource",
+    "name": "https://cctypekit-relstage.adobe.io/v1/cdn/token?locale=en&v=2.3.0&x-request-id=ALL_1726661873657&tqweb_version=2.14.3",
+    "source": "N/A",
+    "duration": 261
+  },
+  {
+    "startTime": 13213,
+    "entryType": "mark",
+    "name": "startup:header-bar-load-direct:end",
+    "source": "N/A",
+    "duration": 0
+  },
+  {
+    "startTime": 13243,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/qa-sptheme-spectrum-color-dark.0f15074cfc84d5c6a983.js",
+    "source": "N/A",
+    "duration": 2.000000000001819
+  },
+  {
+    "startTime": 12614,
+    "entryType": "measure",
+    "name": "component-loader:load:ShareSheet:init",
+    "source": "N/A",
+    "duration": 964
+  },
+  {
+    "startTime": 12874,
+    "entryType": "resource",
+    "name": "https://byof-stage.adobe.io/access_level",
+    "source": "N/A",
+    "duration": 589.0000000000018
+  },
+  {
+    "startTime": 13571,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/4895.js",
+    "source": "N/A",
+    "duration": 27
+  },
+  {
+    "startTime": 13571,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/7602.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13573,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SWCExpressMediumScale.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13574,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/351.js",
+    "source": "N/A",
+    "duration": 28
+  },
+  {
+    "startTime": 13574,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SWCExpressLightTheme.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13575.000000000002,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/ruf7eed.js",
+    "source": "N/A",
+    "duration": 48.99999999999818
+  },
+  {
+    "startTime": 13578,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/5337.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13579,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpButton.js",
+    "source": "N/A",
+    "duration": 28.00000000000182
+  },
+  {
+    "startTime": 13579,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/6157.js",
+    "source": "N/A",
+    "duration": 59
+  },
+  {
+    "startTime": 13580,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/902.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13581,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpActionButton.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13581,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/6329.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13582,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconChevronLeft.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13583,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpOverlay.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 13583,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTooltip.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13584,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconAlert.js",
+    "source": "N/A",
+    "duration": 34
+  },
+  {
+    "startTime": 13585,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconClose.js",
+    "source": "N/A",
+    "duration": 34
+  },
+  {
+    "startTime": 13586,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpLink.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 13586,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpProgressCircle.js",
+    "source": "N/A",
+    "duration": 38
+  },
+  {
+    "startTime": 13588.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpAvatar.js",
+    "source": "N/A",
+    "duration": 36.99999999999818
+  },
+  {
+    "startTime": 13589,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/5098.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 13590,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTags.js",
+    "source": "N/A",
+    "duration": 46.00000000000182
+  },
+  {
+    "startTime": 13591.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTheme.js",
+    "source": "N/A",
+    "duration": 45.99999999999818
+  },
+  {
+    "startTime": 13591.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconCloudDisconnected.js",
+    "source": "N/A",
+    "duration": 45.99999999999818
+  },
+  {
+    "startTime": 13593,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpToast.js",
+    "source": "N/A",
+    "duration": 44
+  },
+  {
+    "startTime": 13593,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpFieldLabel.js",
+    "source": "N/A",
+    "duration": 44
+  },
+  {
+    "startTime": 13594,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/5324.js",
+    "source": "N/A",
+    "duration": 43
+  },
+  {
+    "startTime": 13595,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTextfield.js",
+    "source": "N/A",
+    "duration": 43
+  },
+  {
+    "startTime": 13596,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpDivider.js",
+    "source": "N/A",
+    "duration": 42
+  },
+  {
+    "startTime": 13597,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/1411.js",
+    "source": "N/A",
+    "duration": 41
+  },
+  {
+    "startTime": 13598,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpPopover.js",
+    "source": "N/A",
+    "duration": 40
+  },
+  {
+    "startTime": 13601,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconChevronDown.js",
+    "source": "N/A",
+    "duration": 37
+  },
+  {
+    "startTime": 13602,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/6106.js",
+    "source": "N/A",
+    "duration": 37.00000000000182
+  },
+  {
+    "startTime": 13602,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpMenu.js",
+    "source": "N/A",
+    "duration": 37.00000000000182
+  },
+  {
+    "startTime": 13604.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconBuilding.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13605,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconGlobeGrid.js",
+    "source": "N/A",
+    "duration": 34.00000000000182
+  },
+  {
+    "startTime": 13606,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIconRemoveCircle.js",
+    "source": "N/A",
+    "duration": 33.00000000000182
+  },
+  {
+    "startTime": 13608,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconUserGroup.js",
+    "source": "N/A",
+    "duration": 37
+  },
+  {
+    "startTime": 13609,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpBanner.js",
+    "source": "N/A",
+    "duration": 36
+  },
+  {
+    "startTime": 13610,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIconInfoOutline.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13610,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpRadio.js",
+    "source": "N/A",
+    "duration": 39
+  },
+  {
+    "startTime": 13611,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconRevert.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13613,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconChevronRight.js",
+    "source": "N/A",
+    "duration": 33
+  },
+  {
+    "startTime": 13614,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconFolder.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13615,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconInfo.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13616,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIcon.js",
+    "source": "N/A",
+    "duration": 35
+  },
+  {
+    "startTime": 13617,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIconOpenIn.js",
+    "source": "N/A",
+    "duration": 34
+  },
+  {
+    "startTime": 13622,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconAddCircle.js",
+    "source": "N/A",
+    "duration": 33.00000000000182
+  },
+  {
+    "startTime": 13638,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconCheckmark.js",
+    "source": "N/A",
+    "duration": 28
+  },
+  {
+    "startTime": 13639.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconLockClosed.js",
+    "source": "N/A",
+    "duration": 26.99999999999818
+  },
+  {
+    "startTime": 13640,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconUser.js",
+    "source": "N/A",
+    "duration": 28.00000000000182
+  },
+  {
+    "startTime": 13640,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIconOrganisations.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13641,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpAccordion.js",
+    "source": "N/A",
+    "duration": 30.00000000000182
+  },
+  {
+    "startTime": 13642,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpAsset.js",
+    "source": "N/A",
+    "duration": 29.00000000000182
+  },
+  {
+    "startTime": 13643,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/3729.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13644,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpActionBar.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13645,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpActionGroup.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13646,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpButtonGroup.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13647,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/5495.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13648,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/4419.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13649,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpCard.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13650,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpCheckbox.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13651,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpDialog.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13652.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIllustratedMessage.js",
+    "source": "N/A",
+    "duration": 29.99999999999818
+  },
+  {
+    "startTime": 13653,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpProgessBar.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13654,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpSideNav.js",
+    "source": "N/A",
+    "duration": 30.00000000000182
+  },
+  {
+    "startTime": 13655.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpSwitch.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13656,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTabs.js",
+    "source": "N/A",
+    "duration": 31.00000000000182
+  },
+  {
+    "startTime": 13657,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpNumberField.js",
+    "source": "N/A",
+    "duration": 31
+  },
+  {
+    "startTime": 13658,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/2390.js",
+    "source": "N/A",
+    "duration": 30
+  },
+  {
+    "startTime": 13659,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpActionMenu.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13660,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpSplitButton.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13661,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpTray.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13662,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconMore.js",
+    "source": "N/A",
+    "duration": 28
+  },
+  {
+    "startTime": 13663,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconVisibility.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13664,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconVisibilityOff.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 13665.000000000002,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/XIconSettings.js",
+    "source": "N/A",
+    "duration": 28.99999999999818
+  },
+  {
+    "startTime": 13667,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpIconBackAndroid.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 14085,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-features_x-learn_dist_src_learn-panel_components_creative-exercises_controllers_Crea-087b5b.2d0348c8307d3ce27d12.js",
+    "source": "N/A",
+    "duration": 11
+  },
+  {
+    "startTime": 14086,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_spectrum-web-components_icons-workflow_0_44_0_node_mod-5121f1.5dadc85f19c031f66106.js",
+    "source": "N/A",
+    "duration": 21.00000000000182
+  },
+  {
+    "startTime": 14087,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-panel-components.6c3447a56a41d9cd8c12.js",
+    "source": "N/A",
+    "duration": 32
+  },
+  {
+    "startTime": 14090,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-mpc-video-player-components.18cac0d313f4c23b834d.js",
+    "source": "N/A",
+    "duration": 24
+  },
+  {
+    "startTime": 14094,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-learn_dist_src_highlights_components_x-dynamic-pulse_js.48fe7172b96441f50d72.js",
+    "source": "N/A",
+    "duration": 13.000000000001819
+  },
+  {
+    "startTime": 14095,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-learn_dist_src_highlights_components_x-learn-wrap_js.64585d379d3827a4478d.js",
+    "source": "N/A",
+    "duration": 13
+  },
+  {
+    "startTime": 14097,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-shared-common_temp_node_modules_pnpm_lit-labs_task_3_0_1_node_modules_lit-labs_task_develop-1b81bf.7c2eda3152d49939a662.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 14098,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/x-learn-tutorial-components.74cef1eea6127098bcd0.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 14099,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/features_x-learn_dist_src_highlights_HighlightStore_js.4cd301635d0000949eec.js",
+    "source": "N/A",
+    "duration": 12
+  },
+  {
+    "startTime": 14103,
+    "entryType": "resource",
+    "name": "https://localhost.adobe.com:8080/static/src_components_template-legal-acknowledgement-dialog_x-template-legal-acknowledgement-dialog_ts.6b33167d37047305e5ef.js",
+    "source": "N/A",
+    "duration": 8
+  },
+  {
+    "startTime": 14382,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/cb695f/000000000000000000017701/27/l?subset_id=2&fvd=n4&v=3",
+    "source": "N/A",
+    "duration": 64
+  },
+  {
+    "startTime": 14382,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/eaf09c/000000000000000000017703/27/l?subset_id=2&fvd=n7&v=3",
+    "source": "N/A",
+    "duration": 65.00000000000182
+  },
+  {
+    "startTime": 14423,
+    "entryType": "resource",
+    "name": "https://shared-components.stage.adobe.com/share-sheet/30.16.0/dist/SpPicker.js",
+    "source": "N/A",
+    "duration": 29
+  },
+  {
+    "startTime": 14527.000000000002,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/74ffb1/000000000000000000017702/27/l?subset_id=2&fvd=i4&v=3",
+    "source": "N/A",
+    "duration": 52.99999999999818
+  },
+  {
+    "startTime": 14527.000000000002,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/40207f/0000000000000000000176ff/27/l?subset_id=2&fvd=n3&v=3",
+    "source": "N/A",
+    "duration": 57.99999999999818
+  },
+  {
+    "startTime": 14528,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/c19294/000000000000000000014fbf/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+    "source": "N/A",
+    "duration": 65
+  },
+  {
+    "startTime": 14528,
+    "entryType": "resource",
+    "name": "https://use.typekit.net/af/eb4b24/000000000000000000014fbd/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+    "source": "N/A",
+    "duration": 73
+  },
+  {
+    "startTime": 14679,
+    "entryType": "resource",
+    "name": "https://p.typekit.net/p.gif?s=1&k=ruf7eed&ht=tk&h=localhost.adobe.com&f=7180.7181.7182.7184.22148.22149&a=783678&js=1.21.0&app=typekit&e=js&_=1726661875437",
+    "source": "N/A",
+    "duration": 320
+  },
+  {
+    "startTime": 16341.999999999998,
+    "entryType": "resource",
+    "name": "https://bam.nr-data.net/jserrors/1/476fdc8ce5?a=1834887636&sa=1&v=1.252.1&t=Unnamed%20Transaction&rst=16341&ck=0&s=b63d1956373fa14d&ref=https://localhost.adobe.com:8080/new&hr=0&pve=1",
+    "source": "N/A",
+    "duration": 276.00000000000546
+  },
+  {
+    "startTime": 16475,
+    "entryType": "resource",
+    "name": "https://hz-telemetry-dev.adobe.io/web/v1/metrics",
+    "source": "N/A",
+    "duration": 220
+  }
+]
